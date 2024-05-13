@@ -1,0 +1,7698 @@
+cpu
+[[87, 60], [87, 64], [87, 40]]
+Warning: X does not support locale C.UTF-8
+Interface opened
+Creating the bond list (maxDistance = 10 Å, nCell = 3x3x2)...
+...66 bonds are retained out of 560 generated!
+
+[[-4.  -7.  -4.  -0.5 -0.5  0.  -0.5  0.   0. ]
+ [ 0.   0.   0.   0.   0.   0.5  0.   0.5  6. ]]
+initialization_data:  [[ 5.01293103 -2.26166667]
+ [16.13362069 -2.26166667]
+ [27.25431034 -2.26166667]
+ [38.375      -2.26166667]
+ [49.49568966 -2.26166667]
+ [ 5.01293103 -0.78666667]
+ [16.13362069 -0.78666667]
+ [27.25431034 -0.78666667]
+ [38.375      -0.78666667]
+ [49.49568966 -0.78666667]
+ [ 5.01293103  0.68833333]
+ [16.13362069  0.68833333]
+ [27.25431034  0.68833333]
+ [38.375       0.68833333]
+ [49.49568966  0.68833333]
+ [ 5.01293103  2.16333333]
+ [16.13362069  2.16333333]
+ [27.25431034  2.16333333]
+ [38.375       2.16333333]
+ [49.49568966  2.16333333]]
+initialization_data:  [[ 5.01293103 -2.2640625 ]
+ [16.13362069 -2.2640625 ]
+ [27.25431034 -2.2640625 ]
+ [38.375      -2.2640625 ]
+ [49.49568966 -2.2640625 ]
+ [ 5.01293103 -0.7875    ]
+ [16.13362069 -0.7875    ]
+ [27.25431034 -0.7875    ]
+ [38.375      -0.7875    ]
+ [49.49568966 -0.7875    ]
+ [ 5.01293103  0.6890625 ]
+ [16.13362069  0.6890625 ]
+ [27.25431034  0.6890625 ]
+ [38.375       0.6890625 ]
+ [49.49568966  0.6890625 ]
+ [ 5.01293103  2.165625  ]
+ [16.13362069  2.165625  ]
+ [27.25431034  2.165625  ]
+ [38.375       2.165625  ]
+ [49.49568966  2.165625  ]]
+initialization_data:  [[ 5.01293103 -0.39      ]
+ [16.13362069 -0.39      ]
+ [27.25431034 -0.39      ]
+ [38.375      -0.39      ]
+ [49.49568966 -0.39      ]
+ [ 5.01293103  0.34125   ]
+ [16.13362069  0.34125   ]
+ [27.25431034  0.34125   ]
+ [38.375       0.34125   ]
+ [49.49568966  0.34125   ]]
+Using dtype = torch.float64 
+Using device = cpu
+TR-0 starting from: 0.8963
+TR-1 starting from: 0.8058
+TR-2 starting from: 1.004
+TR-3 starting from: 0.9363
+28) New best @ TR-1: 0.7841
+44) New best @ TR-1: 0.7742
+48) New best @ TR-1: 0.7709
+56) New best @ TR-1: 0.7684
+64) New best @ TR-1: 0.7585
+68) New best @ TR-1: 0.7507
+72) New best @ TR-1: 0.7347
+100) New best @ TR-1: 0.7318
+104) New best @ TR-1: 0.7099
+112) New best @ TR-1: 0.6822
+120) New best @ TR-1: 0.6728
+144) New best @ TR-1: 0.6658
+164) New best @ TR-1: 0.664
+184) New best @ TR-1: 0.6624
+200) TR-1 converged to: : 0.6621
+200) TR-1 is restarting from: : 0.8101
+260) New best @ TR-1: 0.6506
+264) New best @ TR-1: 0.6455
+272) New best @ TR-1: 0.6318
+296) New best @ TR-1: 0.6292
+300) New best @ TR-1: 0.6184
+304) New best @ TR-1: 0.6158
+308) New best @ TR-1: 0.6098
+316) New best @ TR-1: 0.6012
+324) New best @ TR-1: 0.5819
+328) New best @ TR-1: 0.5605
+332) New best @ TR-1: 0.5332
+352) New best @ TR-1: 0.5295
+372) New best @ TR-1: 0.5188
+388) New best @ TR-1: 0.5179
+412) New best @ TR-1: 0.5157
+420) New best @ TR-1: 0.5125
+436) TR-1 converged to: : 0.5121
+436) TR-1 is restarting from: : 0.8756
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+True
+False
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+True
+False
+True
+True
+False
+True
+False
+False
+False
+False
+False
+False
+nn_file reading finish
+finish_reading
+
+ n:  0
+parameter_num:  2
+
+Num_sample_iterations: 1
+
+--------------------------------------------
+Sampled numbers of path_0: 16
+New samples_index: [(46, 1), (35, 59), (52, 2), (57, 3), (63, 4), (70, 5), (78, 6), (83, 7), (86, 7), (50, 2), (52, 59), (52, 18), (86, 53), (86, 25), (60, 59), (60, 19)]
+New samples: [[29.47844828 -2.85166667]
+ [21.32327586  2.85166667]
+ [33.92672414 -2.75333333]
+ [37.63362069 -2.655     ]
+ [42.08189655 -2.55666667]
+ [47.27155172 -2.45833333]
+ [53.20258621 -2.36      ]
+ [56.90948276 -2.26166667]
+ [59.13362069 -2.26166667]
+ [32.44396552 -2.75333333]
+ [33.92672414  2.85166667]
+ [33.92672414 -1.18      ]
+ [59.13362069  2.26166667]
+ [59.13362069 -0.49166667]
+ [39.85775862  2.85166667]
+ [39.85775862 -1.08166667]]
+
+
+
+expr_predX:  (33,) (33,) (33,)
+(array([-1.13144738e-02,  4.17601667e-01,  5.62492205e-01,  7.92200113e-01,
+        5.97782256e-01, -9.48256471e-02, -1.30944824e-02, -7.40572343e-09,
+       -3.53004754e-13, -1.99825258e-17,  1.07042581e-01,  2.56246202e-01,
+       -3.64977539e-03, -5.65291528e-18,  2.66736333e-01,  4.10763517e-02]), array([0.01192162, 0.17796964, 0.22308053, 0.12190154, 0.07494036,
+       0.03431521, 0.01296558, 0.02001127, 0.03510304, 0.04516985,
+       0.13182539, 0.12183639, 0.1219919 , 0.04508998, 0.05298991,
+       0.05173443]), array([0.0360053 , 0.03188224, 0.03523229, 0.02920263, 0.02223104,
+       0.02812563, 0.03417481, 0.04587414, 0.05908704, 0.06582353,
+       0.03033569, 0.02928237, 0.02766382, 0.06587924, 0.02337382,
+       0.02115844]))
+0.775536236496841
+
+Num_sample_iterations: 1
+
+--------------------------------------------
+Sampled numbers of path_1: 16
+New samples_index: [(37, 55), (40, 11), (35, 15), (52, 62), (52, 16), (37, 4), (52, 19), (52, 2), (52, 21), (52, 5), (52, 7), (60, 63), (86, 61), (86, 2), (60, 18), (50, 25)]
+New samples: [[22.80603448  2.2640625 ]
+ [25.03017241 -2.0671875 ]
+ [21.32327586 -1.6734375 ]
+ [33.92672414  2.953125  ]
+ [33.92672414 -1.575     ]
+ [22.80603448 -2.75625   ]
+ [33.92672414 -1.2796875 ]
+ [33.92672414 -2.953125  ]
+ [33.92672414 -1.0828125 ]
+ [33.92672414 -2.6578125 ]
+ [33.92672414 -2.4609375 ]
+ [39.85775862  3.0515625 ]
+ [59.13362069  2.8546875 ]
+ [59.13362069 -2.953125  ]
+ [39.85775862 -1.378125  ]
+ [32.44396552 -0.6890625 ]]
+
+
+
+expr_predX:  (28,) (28,) (28,)
+(array([ 2.04677704e-01, -1.71731261e-01, -1.32420807e-04,  2.78365359e-01,
+        5.66504306e-01,  6.65737168e-01,  1.39654821e-01,  1.20078878e-01,
+        8.25373506e-01,  4.11402146e-01,  4.72311833e-01,  5.12078269e-01,
+        2.34038081e-01,  1.85719636e-01,  5.18814346e-01, -9.34358099e-01]), array([ 0.25725313, -0.2553637 , -0.00726029,  0.39335216,  0.78396913,
+        0.83203051,  0.19098933,  0.17700866,  0.89993454,  0.79879899,
+        0.60258386,  0.48653157,  0.49281677,  0.48657639,  0.35066478,
+        0.4105287 ]), array([0.03151543, 0.13811992, 0.09777142, 0.06271777, 0.12608399,
+       0.1367875 , 0.05739558, 0.06200388, 0.16046864, 0.15667457,
+       0.20270915, 0.20150188, 0.18394396, 0.1518198 , 0.1889012 ,
+       0.12330378]))
+0.7211165813358738
+
+Num_sample_iterations: 1
+
+--------------------------------------------
+Sampled numbers of path_2: 16
+New samples_index: [(26, 12), (37, 2), (39, 4), (42, 6), (53, 12), (55, 13), (50, 10), (58, 14), (61, 15), (64, 16), (61, 12), (50, 14), (67, 17), (70, 18), (78, 21), (81, 22)]
+New samples: [[ 1.46508621e+01 -3.90000000e-01]
+ [ 2.28060345e+01 -8.77500000e-01]
+ [ 2.42887931e+01 -7.80000000e-01]
+ [ 2.65129310e+01 -6.82500000e-01]
+ [ 3.46681034e+01 -3.90000000e-01]
+ [ 3.61508621e+01 -3.41250000e-01]
+ [ 3.24439655e+01 -4.87500000e-01]
+ [ 3.83750000e+01 -2.92500000e-01]
+ [ 4.05991379e+01 -2.43750000e-01]
+ [ 4.28232759e+01 -1.95000000e-01]
+ [ 4.05991379e+01 -3.90000000e-01]
+ [ 3.24439655e+01 -2.92500000e-01]
+ [ 4.50474138e+01 -1.46250000e-01]
+ [ 4.72715517e+01 -9.75000000e-02]
+ [ 5.32025862e+01  4.87500000e-02]
+ [ 5.54267241e+01  9.75000000e-02]]
+
+
+
+expr_predX:  (22,) (22,) (22,)
+(array([ 0.0369775 ,  0.2118933 ,  0.        ,  0.26293256,  0.50600265,
+        0.19753162,  0.29841453,  0.31666834,  0.01019947, -0.00720216,
+       -0.01332992,  0.27029555,  0.10739497,  0.31717817, -0.27497475,
+       -0.00311922]), array([0.04254301, 0.20807362, 0.01513387, 0.46779864, 0.12757567,
+       0.12757894, 0.12512036, 0.21603787, 0.26082502, 0.1522923 ,
+       0.24456587, 0.1804741 , 0.13925872, 0.27793998, 0.1522895 ,
+       0.12488513]), array([0.04813692, 0.04055422, 0.07678986, 0.13083449, 0.1936096 ,
+       0.19360609, 0.19348301, 0.17578829, 0.15750843, 0.18975639,
+       0.16689875, 0.18786531, 0.19289486, 0.14455247, 0.18975639,
+       0.19340062]))
+0.6178800086737449
+Using dtype = torch.float64 
+Using device = cpu
+TR-0 starting from: 0.6637
+TR-1 starting from: 0.7572
+TR-2 starting from: 0.8327
+TR-3 starting from: 0.712
+20) New best @ TR-0: 0.6546
+32) New best @ TR-0: 0.6323
+40) New best @ TR-0: 0.6221
+44) New best @ TR-0: 0.6114
+60) New best @ TR-0: 0.6075
+68) New best @ TR-0: 0.5939
+76) New best @ TR-0: 0.5784
+92) New best @ TR-0: 0.5724
+108) New best @ TR-0: 0.5717
+112) New best @ TR-0: 0.5688
+116) New best @ TR-0: 0.5666
+120) New best @ TR-0: 0.5641
+140) New best @ TR-0: 0.5608
+172) New best @ TR-0: 0.5596
+180) New best @ TR-0: 0.5567
+208) TR-0 converged to: : 0.5567
+208) TR-0 is restarting from: : 0.7718
+269) New best @ TR-3: 0.5513
+285) New best @ TR-3: 0.5457
+321) New best @ TR-3: 0.5451
+325) New best @ TR-3: 0.5427
+329) New best @ TR-3: 0.5401
+337) New best @ TR-3: 0.5388
+389) TR-3 converged to: : 0.5388
+389) TR-3 is restarting from: : 0.7422
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+True
+True
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+True
+False
+True
+False
+True
+False
+False
+True
+False
+False
+True
+False
+True
+False
+False
+True
+True
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+True
+False
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+nn_file reading finish
+stop_value_accurate:  0.5388331628552094
+
+ n:  1
+parameter_num:  3
+
+Num_sample_iterations: 2
+
+--------------------------------------------
+Sampled numbers of path_0: 16
+New samples_index: [(43, 1), (54, 4), (62, 59), (82, 9), (63, 6), (69, 7), (75, 8), (50, 59), (55, 16), (46, 2), (49, 3), (58, 5), (46, 15), (58, 59), (19, 59), (20, 11)]
+New samples: [[27.25431034 -2.85166667]
+ [35.40948276 -2.55666667]
+ [41.34051724  2.85166667]
+ [56.16810345 -2.065     ]
+ [42.08189655 -2.36      ]
+ [46.53017241 -2.26166667]
+ [50.97844828 -2.16333333]
+ [32.44396552  2.85166667]
+ [36.15086207 -1.37666667]
+ [29.47844828 -2.75333333]
+ [31.70258621 -2.655     ]
+ [38.375      -2.45833333]
+ [29.47844828 -1.475     ]
+ [38.375       2.85166667]
+ [ 9.4612069   2.85166667]
+ [10.20258621 -1.86833333]]
+
+
+
+expr_predX:  (49,) (49,) (49,)
+(array([ 3.11699327e-01,  8.05234861e-01,  1.65261132e-01, -2.19960292e-06,
+        2.69402230e-01, -7.95778703e-02, -2.01035298e-03,  5.58616375e-01,
+       -5.23607015e-01,  4.67130179e-01, -6.18276900e-02,  4.13010922e-01,
+        3.54978582e-01,  1.86936263e-01, -1.26514018e-01,  2.98529152e-01]), array([ 0.06174015,  0.3557326 ,  0.19692463, -0.05253349, -0.12511638,
+       -0.19594669, -0.02230698,  0.19717405,  0.17104183,  0.21840697,
+        0.11528625,  0.07630712,  0.1144293 ,  0.13921019,  0.0167521 ,
+        0.01080309]), array([0.05028181, 0.08316277, 0.09612116, 0.05804308, 0.05723497,
+       0.08021973, 0.06952409, 0.06859662, 0.07402716, 0.05874919,
+       0.04444597, 0.046959  , 0.08970685, 0.04182534, 0.15951881,
+       0.16137124]))
+0.5883351322304424
+
+Num_sample_iterations: 2
+
+--------------------------------------------
+Sampled numbers of path_1: 16
+New samples_index: [(65, 17), (58, 17), (63, 21), (58, 20), (42, 12), (52, 56), (35, 11), (52, 52), (18, 7), (16, 6), (60, 59), (58, 42), (60, 42), (60, 49), (58, 36), (86, 51)]
+New samples: [[43.56465517 -1.4765625 ]
+ [38.375      -1.4765625 ]
+ [42.08189655 -1.0828125 ]
+ [38.375      -1.18125   ]
+ [26.51293103 -1.96875   ]
+ [33.92672414  2.3625    ]
+ [21.32327586 -2.0671875 ]
+ [33.92672414  1.96875   ]
+ [ 8.71982759 -2.4609375 ]
+ [ 7.23706897 -2.559375  ]
+ [39.85775862  2.6578125 ]
+ [38.375       0.984375  ]
+ [39.85775862  0.984375  ]
+ [39.85775862  1.6734375 ]
+ [38.375       0.39375   ]
+ [59.13362069  1.8703125 ]]
+
+
+
+expr_predX:  (42,) (42,) (42,)
+(array([ 3.78022685e-01, -2.85145857e-01, -1.90366922e-01,  2.48256416e-02,
+       -3.20696034e-01, -2.09722443e-01,  3.16163580e-01,  8.16480623e-01,
+        1.79874019e-01,  9.96954935e-01,  2.48865976e-01,  2.09046718e-02,
+       -1.63579187e-02,  2.19620842e-01, -6.27597357e-01, -2.75866750e-10]), array([ 0.49080204, -0.15977256,  0.49724335,  0.46792977,  0.34674134,
+        0.39432757,  0.32184273,  0.31754126,  0.22765223,  0.17859492,
+        0.14922477,  0.11923442,  0.11798782,  0.0934534 ,  0.11237349,
+        0.09158969]), array([0.10649064, 0.08722272, 0.1742687 , 0.11720436, 0.17798669,
+       0.13641412, 0.1219103 , 0.11888502, 0.1868397 , 0.18475098,
+       0.22208622, 0.22138271, 0.22168856, 0.25668019, 0.22137383,
+       0.25083981]))
+0.27041380412746996
+
+Num_sample_iterations: 2
+
+--------------------------------------------
+Sampled numbers of path_2: 16
+New samples_index: [(29, 13), (28, 30), (25, 25), (44, 7), (52, 39), (46, 8), (60, 39), (49, 10), (85, 23), (78, 21), (75, 20), (56, 13), (82, 22), (72, 19), (63, 16), (69, 18)]
+New samples: [[ 1.68750000e+01 -3.41250000e-01]
+ [ 1.61336207e+01  4.87500000e-01]
+ [ 1.39094828e+01  2.43750000e-01]
+ [ 2.79956897e+01 -6.33750000e-01]
+ [ 3.39267241e+01  9.26250000e-01]
+ [ 2.94784483e+01 -5.85000000e-01]
+ [ 3.98577586e+01  9.26250000e-01]
+ [ 3.17025862e+01 -4.87500000e-01]
+ [ 5.83922414e+01  1.46250000e-01]
+ [ 5.32025862e+01  4.87500000e-02]
+ [ 5.09784483e+01  0.00000000e+00]
+ [ 3.68922414e+01 -3.41250000e-01]
+ [ 5.61681034e+01  9.75000000e-02]
+ [ 4.87543103e+01 -4.87500000e-02]
+ [ 4.20818966e+01 -1.95000000e-01]
+ [ 4.65301724e+01 -9.75000000e-02]]
+
+
+
+expr_predX:  (33,) (33,) (33,)
+(array([ 0.33602111,  0.14046585,  0.41030698, -0.24333429,  0.01420763,
+        0.66167254,  0.18933626,  0.13499905,  0.0091537 , -0.00491017,
+        0.07733248,  0.12803658, -0.04905017,  0.10511575,  0.24405067,
+       -0.00668667]), array([ 0.28566098,  0.14049423,  0.35047644, -0.14137676,  0.01971622,
+        0.36639261,  0.12801606,  0.13309894,  0.16229352,  0.11218764,
+        0.07136391,  0.11218622, -0.03919007,  0.05586225,  0.18454286,
+        0.04035573]), array([0.05483224, 0.00264885, 0.06370773, 0.08492529, 0.04747744,
+       0.13112072, 0.1854509 , 0.17660169, 0.13392091, 0.19323595,
+       0.17034806, 0.19323595, 0.07685832, 0.04479923, 0.0439077 ,
+       0.13422662]))
+0.938240315252855
+Using dtype = torch.float64 
+Using device = cpu
+TR-0 starting from: 0.5713
+TR-1 starting from: 0.4959
+TR-2 starting from: 0.6526
+TR-3 starting from: 0.639
+55) New best @ TR-1: 0.4902
+71) New best @ TR-1: 0.4879
+75) New best @ TR-1: 0.487
+79) New best @ TR-1: 0.4848
+83) New best @ TR-1: 0.4812
+127) New best @ TR-1: 0.4803
+147) New best @ TR-1: 0.4789
+175) TR-1 converged to: : 0.4787
+175) TR-1 is restarting from: : 0.6402
+321) TR-0 converged to: : 0.4863
+321) TR-0 is restarting from: : 0.6469
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+True
+False
+True
+False
+False
+True
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+True
+False
+False
+False
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+True
+False
+True
+False
+False
+False
+False
+True
+True
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+nn_file reading finish
+stop_value_accurate:  0.47872790951722505
+
+ n:  2
+parameter_num:  4
+
+Num_sample_iterations: 3
+
+--------------------------------------------
+Sampled numbers of path_0: 16
+New samples_index: [(48, 59), (20, 12), (65, 58), (67, 4), (75, 5), (84, 6), (42, 15), (58, 56), (52, 55), (26, 50), (60, 49), (48, 1), (67, 23), (86, 31), (52, 27), (60, 3)]
+New samples: [[30.9612069   2.85166667]
+ [10.20258621 -1.77      ]
+ [43.56465517  2.75333333]
+ [45.04741379 -2.55666667]
+ [50.97844828 -2.45833333]
+ [57.65086207 -2.36      ]
+ [26.51293103 -1.475     ]
+ [38.375       2.55666667]
+ [33.92672414  2.45833333]
+ [14.65086207  1.96666667]
+ [39.85775862  1.86833333]
+ [30.9612069  -2.85166667]
+ [45.04741379 -0.68833333]
+ [59.13362069  0.09833333]
+ [33.92672414 -0.295     ]
+ [39.85775862 -2.655     ]]
+
+
+
+expr_predX:  (63,) (63,) (63,)
+(array([-0.0164796 ,  0.31259093,  0.25649353, -0.00611694, -0.010922  ,
+       -0.06053796, -0.11487377, -0.02602363,  0.56403081,  0.35892242,
+        0.38130849,  0.43524318,  0.15940281,  0.19847687, -0.31304181,
+        0.14602253]), array([-0.01440486,  0.27215772,  0.3392637 ,  0.25217882,  0.13181343,
+       -0.01497075,  0.02345199, -0.00390268,  0.10043824,  0.09204256,
+        0.07205786,  0.08432291,  0.05083394,  0.0877134 ,  0.02663502,
+        0.09718957]), array([0.04068856, 0.06761576, 0.12099819, 0.09552109, 0.13340914,
+       0.10951267, 0.11256751, 0.07862065, 0.14984585, 0.14450147,
+       0.16538942, 0.1413421 , 0.16048825, 0.06480672, 0.17993505,
+       0.09803609]))
+0.5801898721805309
+
+Num_sample_iterations: 3
+
+--------------------------------------------
+Sampled numbers of path_1: 16
+New samples_index: [(19, 7), (34, 11), (44, 12), (42, 40), (56, 49), (60, 47), (28, 26), (50, 49), (52, 54), (52, 8), (19, 56), (14, 59), (8, 57), (60, 61), (83, 5), (83, 18)]
+New samples: [[ 9.4612069  -2.4609375 ]
+ [20.58189655 -2.0671875 ]
+ [27.99568966 -1.96875   ]
+ [26.51293103  0.7875    ]
+ [36.89224138  1.6734375 ]
+ [39.85775862  1.4765625 ]
+ [16.13362069 -0.590625  ]
+ [32.44396552  1.6734375 ]
+ [33.92672414  2.165625  ]
+ [33.92672414 -2.3625    ]
+ [ 9.4612069   2.3625    ]
+ [ 5.75431034  2.6578125 ]
+ [ 1.30603448  2.4609375 ]
+ [39.85775862  2.8546875 ]
+ [56.90948276 -2.6578125 ]
+ [56.90948276 -1.378125  ]]
+
+
+
+expr_predX:  (54,) (54,) (54,)
+(array([ 0.02327696,  0.19104721, -0.62759736, -0.00610094,  0.91495766,
+        0.94083069,  0.10675393, -0.50763562,  0.17996319, -0.11308267,
+        0.28985819, -0.02137161,  0.0809495 , -0.07986895,  0.82705785,
+       -0.07638513]), array([ 0.0217001 ,  0.17811497, -0.42163892, -0.00507308,  0.51676054,
+        0.46183978,  0.26130421,  0.18534537,  0.14456024,  0.14926962,
+        0.14271825,  0.10598264,  0.11792973,  0.04773617,  0.03681143,
+        0.01979861]), array([0.02602877, 0.05919661, 0.11729742, 0.03827188, 0.12374371,
+       0.1191483 , 0.11967758, 0.10947569, 0.15878171, 0.1340506 ,
+       0.14087515, 0.17144361, 0.13551564, 0.19077613, 0.19360712,
+       0.20255582]))
+0.7204509753785816
+
+Num_sample_iterations: 3
+
+--------------------------------------------
+Sampled numbers of path_2: 16
+New samples_index: [(43, 8), (39, 5), (30, 14), (45, 9), (55, 14), (49, 11), (47, 10), (60, 16), (63, 17), (53, 13), (58, 15), (66, 18), (72, 20), (69, 19), (79, 22), (76, 21)]
+New samples: [[ 2.72543103e+01 -5.85000000e-01]
+ [ 2.42887931e+01 -7.31250000e-01]
+ [ 1.76163793e+01 -2.92500000e-01]
+ [ 2.87370690e+01 -5.36250000e-01]
+ [ 3.61508621e+01 -2.92500000e-01]
+ [ 3.17025862e+01 -4.38750000e-01]
+ [ 3.02198276e+01 -4.87500000e-01]
+ [ 3.98577586e+01 -1.95000000e-01]
+ [ 4.20818966e+01 -1.46250000e-01]
+ [ 3.46681034e+01 -3.41250000e-01]
+ [ 3.83750000e+01 -2.43750000e-01]
+ [ 4.43060345e+01 -9.75000000e-02]
+ [ 4.87543103e+01  0.00000000e+00]
+ [ 4.65301724e+01 -4.87500000e-02]
+ [ 5.39439655e+01  9.75000000e-02]
+ [ 5.17198276e+01  4.87500000e-02]]
+
+
+
+expr_predX:  (45,) (45,) (45,)
+(array([-0.00283546, -0.04279458,  0.23793915, -0.00553364,  0.07887971,
+        0.35772481,  0.77941741,  0.11881342, -0.09630853,  0.03912572,
+        0.02501208, -0.11860913,  0.21900811,  0.21282154,  0.07770731,
+        0.18733045]), array([ 0.01936395,  0.00045959,  0.20062607, -0.0011466 ,  0.07274634,
+        0.26331124,  0.40539296,  0.08529386, -0.04995248,  0.01782488,
+        0.01336007,  0.26138113,  0.1417948 , -0.03378095,  0.25562332,
+        0.03124085]), array([0.02908927, 0.0310387 , 0.03063694, 0.03593126, 0.08674859,
+       0.07908764, 0.10953706, 0.08468865, 0.07238926, 0.07663329,
+       0.0738922 , 0.08971347, 0.08515789, 0.05581152, 0.06571997,
+       0.0881105 ]))
+0.7559207318313266
+Using dtype = torch.float64 
+Using device = cpu
+TR-0 starting from: 0.4968
+TR-1 starting from: 0.5618
+TR-2 starting from: 0.5174
+TR-3 starting from: 0.6698
+73) New best @ TR-0: 0.4955
+85) New best @ TR-0: 0.4916
+109) New best @ TR-0: 0.4896
+121) New best @ TR-0: 0.488
+165) TR-0 converged to: : 0.4875
+165) TR-0 is restarting from: : 0.61
+260) TR-2 converged to: : 0.4948
+260) TR-2 is restarting from: : 0.6235
+403) TR-1 converged to: : 0.5262
+403) TR-1 is restarting from: : 0.578
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False
+True
+False
+True
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+True
+True
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+True
+True
+True
+True
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+True
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+nn_file reading finish
+stop_value_accurate:  0.4875270100778223
+
+ n:  3
+parameter_num:  5
+
+Num_sample_iterations: 4
+
+--------------------------------------------
+Sampled numbers of path_0: 16
+New samples_index: [(28, 23), (27, 49), (56, 56), (60, 56), (49, 56), (20, 9), (40, 17), (61, 47), (58, 47), (71, 4), (80, 5), (33, 57), (39, 58), (37, 57), (50, 1), (56, 2)]
+New samples: [[16.13362069 -0.68833333]
+ [15.39224138  1.86833333]
+ [36.89224138  2.55666667]
+ [39.85775862  2.55666667]
+ [31.70258621  2.55666667]
+ [10.20258621 -2.065     ]
+ [25.03017241 -1.27833333]
+ [40.59913793  1.67166667]
+ [38.375       1.67166667]
+ [48.01293103 -2.55666667]
+ [54.68534483 -2.45833333]
+ [19.84051724  2.655     ]
+ [24.2887931   2.75333333]
+ [22.80603448  2.655     ]
+ [32.44396552 -2.85166667]
+ [36.89224138 -2.75333333]]
+
+
+
+expr_predX:  (79,) (79,) (79,)
+(array([-0.3510279 , -0.18539347,  0.60597745,  0.06462979, -0.03687725,
+        0.77434506,  0.37815619,  0.5894011 ,  0.21310682, -0.14861708,
+       -0.21458069,  0.38963652, -0.02623492,  0.05140663,  0.26923799,
+        0.52015992]), array([ 0.36063977,  0.28239852,  0.39876701,  0.33158293,  0.25712598,
+        0.2942145 ,  0.25662834,  0.15281471,  0.14166261, -0.12420787,
+       -0.15548171,  0.12340152,  0.12122413,  0.12513303,  0.22206605,
+        0.30921921]), array([0.12693077, 0.13193364, 0.12434115, 0.13398858, 0.15767676,
+       0.16570521, 0.18402512, 0.16600029, 0.16744515, 0.10478763,
+       0.12573473, 0.17997385, 0.19505507, 0.18051302, 0.08552501,
+       0.11057265]))
+0.5730405846663301
+
+Num_sample_iterations: 4
+
+--------------------------------------------
+Sampled numbers of path_1: 16
+New samples_index: [(20, 56), (33, 11), (28, 28), (21, 7), (58, 51), (60, 51), (35, 56), (35, 54), (49, 16), (48, 18), (48, 20), (44, 21), (40, 25), (41, 43), (58, 33), (60, 33)]
+New samples: [[10.20258621  2.3625    ]
+ [19.84051724 -2.0671875 ]
+ [16.13362069 -0.39375   ]
+ [10.94396552 -2.4609375 ]
+ [38.375       1.8703125 ]
+ [39.85775862  1.8703125 ]
+ [21.32327586  2.3625    ]
+ [21.32327586  2.165625  ]
+ [31.70258621 -1.575     ]
+ [30.9612069  -1.378125  ]
+ [30.9612069  -1.18125   ]
+ [27.99568966 -1.0828125 ]
+ [25.03017241 -0.6890625 ]
+ [25.77155172  1.0828125 ]
+ [38.375       0.0984375 ]
+ [39.85775862  0.0984375 ]]
+
+
+
+expr_predX:  (70,) (70,) (70,)
+(array([ 0.29912429,  0.27587591, -0.0044645 ,  0.10442212,  0.04870201,
+       -0.01551279,  0.73784526,  0.97306702, -0.12837384, -0.1497375 ,
+       -0.21343445, -0.19927055, -0.66159334,  0.25726754,  0.00890143,
+        0.17555772]), array([0.63656675, 0.45709529, 0.35370814, 0.4800696 , 0.22373708,
+       0.21292164, 0.19436807, 0.19139836, 0.18887512, 0.17676566,
+       0.17716085, 0.14483575, 0.1440063 , 0.11037763, 0.11236299,
+       0.10239235]), array([0.14501019, 0.11548706, 0.17159354, 0.15744218, 0.13441535,
+       0.13954485, 0.15371085, 0.15244225, 0.16859037, 0.19722055,
+       0.19369676, 0.2039608 , 0.18445901, 0.19771642, 0.20169593,
+       0.20908354]))
+0.3068593776779048
+
+Num_sample_iterations: 4
+
+--------------------------------------------
+Sampled numbers of path_2: 16
+New samples_index: [(42, 5), (44, 6), (46, 7), (50, 9), (48, 8), (55, 11), (53, 10), (61, 13), (64, 14), (71, 16), (68, 15), (75, 17), (79, 18), (83, 19), (37, 1), (50, 12)]
+New samples: [[ 2.65129310e+01 -7.31250000e-01]
+ [ 2.79956897e+01 -6.82500000e-01]
+ [ 2.94784483e+01 -6.33750000e-01]
+ [ 3.24439655e+01 -5.36250000e-01]
+ [ 3.09612069e+01 -5.85000000e-01]
+ [ 3.61508621e+01 -4.38750000e-01]
+ [ 3.46681034e+01 -4.87500000e-01]
+ [ 4.05991379e+01 -3.41250000e-01]
+ [ 4.28232759e+01 -2.92500000e-01]
+ [ 4.80129310e+01 -1.95000000e-01]
+ [ 4.57887931e+01 -2.43750000e-01]
+ [ 5.09784483e+01 -1.46250000e-01]
+ [ 5.39439655e+01 -9.75000000e-02]
+ [ 5.69094828e+01 -4.87500000e-02]
+ [ 2.28060345e+01 -9.26250000e-01]
+ [ 3.24439655e+01 -3.90000000e-01]]
+
+
+
+expr_predX:  (58,) (58,) (58,)
+(array([-0.00207698,  0.12745125,  0.16168977,  0.39000571, -0.1525491 ,
+        0.03447096, -0.01091472,  0.09872922,  0.03499381,  0.02975209,
+       -0.25860359, -0.00674743, -0.00615011, -0.00966064,  0.45816201,
+        0.1177512 ]), array([0.04886144, 0.04886144, 0.04886144, 0.04886144, 0.04886144,
+       0.04886144, 0.04886144, 0.04886144, 0.04886144, 0.04886144,
+       0.04886144, 0.04886144, 0.04886144, 0.04886144, 0.04886144,
+       0.04886144]), array([2.82118334e-05, 2.82118388e-05, 2.82118491e-05, 2.82118325e-05,
+       2.82118317e-05, 2.82118313e-05, 2.82118320e-05, 2.82118312e-05,
+       2.82118341e-05, 2.82118328e-05, 2.82118396e-05, 2.82118434e-05,
+       2.82118545e-05, 2.82118493e-05, 2.82118379e-05, 2.82118321e-05]))
+0.34828329495054894
+Using dtype = torch.float64 
+Using device = cpu
+TR-0 starting from: 0.4971
+TR-1 starting from: 0.4986
+TR-2 starting from: 0.5669
+TR-3 starting from: 0.517
+102) New best @ TR-3: 0.4941
+110) New best @ TR-3: 0.4898
+138) New best @ TR-3: 0.4884
+150) New best @ TR-3: 0.4876
+154) New best @ TR-3: 0.4865
+162) New best @ TR-3: 0.4859
+186) New best @ TR-3: 0.4851
+226) TR-3 converged to: : 0.4851
+226) TR-3 is restarting from: : 0.6335
+286) New best @ TR-1: 0.4844
+302) New best @ TR-1: 0.4832
+330) TR-1 converged to: : 0.483
+330) TR-1 is restarting from: : 0.6593
+386) TR-0 converged to: : 0.4925
+386) TR-0 is restarting from: : 0.642
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+True
+False
+False
+False
+False
+False
+False
+True
+True
+False
+True
+False
+False
+False
+True
+False
+False
+False
+False
+True
+False
+False
+False
+True
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+True
+True
+True
+True
+False
+False
+False
+True
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+True
+False
+True
+False
+False
+False
+False
+False
+nn_file reading finish
+stop_value_accurate:  0.4830060689718898
+
+ n:  4
+parameter_num:  6
+
+Num_sample_iterations: 5
+
+--------------------------------------------
+Sampled numbers of path_0: 16
+New samples_index: [(33, 54), (55, 30), (46, 53), (84, 13), (70, 10), (79, 12), (74, 11), (74, 5), (24, 58), (82, 6), (66, 4), (5, 59), (53, 2), (61, 8), (66, 9), (50, 5)]
+New samples: [[19.84051724  2.36      ]
+ [36.15086207  0.        ]
+ [29.47844828  2.26166667]
+ [57.65086207 -1.67166667]
+ [47.27155172 -1.96666667]
+ [53.94396552 -1.77      ]
+ [50.23706897 -1.86833333]
+ [50.23706897 -2.45833333]
+ [13.16810345  2.75333333]
+ [56.16810345 -2.36      ]
+ [44.30603448 -2.55666667]
+ [-0.91810345  2.85166667]
+ [34.66810345 -2.75333333]
+ [40.59913793 -2.16333333]
+ [44.30603448 -2.065     ]
+ [32.44396552 -2.45833333]]
+
+
+
+expr_predX:  (93,) (93,) (93,)
+(array([ 0.26902429,  0.53883812,  0.01808662,  0.03856094,  0.12550894,
+       -0.18614057, -0.00533604, -0.35666333, -0.32357966, -0.24617579,
+       -0.01766791, -0.17117844,  0.50435281,  0.18827699,  0.449167  ,
+       -0.10002841]), array([ 0.04916451,  0.13547881,  0.20336856,  0.13333544,  0.13697255,
+       -0.02798761, -0.04784832, -0.05821495, -0.05830851,  0.1100725 ,
+        0.01558477, -0.01435389,  0.08143392,  0.08075209, -0.01491899,
+        0.04987157]), array([0.01574705, 0.02780897, 0.0422243 , 0.02993244, 0.02389829,
+       0.02667222, 0.0334834 , 0.02767756, 0.02793958, 0.04844714,
+       0.02147123, 0.03197369, 0.02182128, 0.01573521, 0.03163281,
+       0.01528854]))
+0.4297449344344149
+
+Num_sample_iterations: 5
+
+--------------------------------------------
+Sampled numbers of path_1: 16
+New samples_index: [(34, 54), (41, 44), (20, 57), (33, 12), (18, 9), (32, 9), (45, 25), (62, 34), (61, 18), (55, 44), (40, 9), (55, 58), (37, 17), (42, 11), (69, 57), (71, 50)]
+New samples: [[20.58189655  2.165625  ]
+ [25.77155172  1.18125   ]
+ [10.20258621  2.4609375 ]
+ [19.84051724 -1.96875   ]
+ [ 8.71982759 -2.2640625 ]
+ [19.09913793 -2.2640625 ]
+ [28.73706897 -0.6890625 ]
+ [41.34051724  0.196875  ]
+ [40.59913793 -1.378125  ]
+ [36.15086207  1.18125   ]
+ [25.03017241 -2.2640625 ]
+ [36.15086207  2.559375  ]
+ [22.80603448 -1.4765625 ]
+ [26.51293103 -2.0671875 ]
+ [46.53017241  2.4609375 ]
+ [48.01293103  1.771875  ]]
+
+
+
+expr_predX:  (84,) (84,) (84,)
+(array([ 0.03944944,  0.1587723 ,  0.61015503,  0.29113367,  0.63804503,
+        0.18674459,  0.24207465,  0.57701364,  0.09394265,  0.2141101 ,
+        0.21935422, -0.04026042,  0.51831829,  0.35108988,  0.12494154,
+       -0.00504902]), array([ 0.09075703,  0.13248458,  0.64388299,  0.27631889,  0.28052549,
+        0.28532104,  0.24383825,  0.23684772,  0.13233948,  0.12989757,
+        0.16494518,  0.06686971,  0.10829513,  0.05184919,  0.11282257,
+       -0.01155763]), array([0.03344951, 0.05093251, 0.11917904, 0.11289028, 0.10121567,
+       0.09115606, 0.14068275, 0.1369261 , 0.12621637, 0.12895408,
+       0.08428999, 0.16328217, 0.11611759, 0.16317093, 0.05654099,
+       0.20224478]))
+0.8548364306526444
+
+Num_sample_iterations: 5
+
+--------------------------------------------
+Sampled numbers of path_2: 16
+New samples_index: [(32, 13), (29, 15), (55, 28), (62, 10), (21, 23), (50, 27), (60, 30), (58, 9), (45, 10), (73, 39), (66, 26), (63, 24), (49, 13), (86, 35), (84, 34), (80, 32)]
+New samples: [[19.09913793 -0.34125   ]
+ [16.875      -0.24375   ]
+ [36.15086207  0.39      ]
+ [41.34051724 -0.4875    ]
+ [10.94396552  0.14625   ]
+ [32.44396552  0.34125   ]
+ [39.85775862  0.4875    ]
+ [38.375      -0.53625   ]
+ [28.73706897 -0.4875    ]
+ [49.49568966  0.92625   ]
+ [44.30603448  0.2925    ]
+ [42.08189655  0.195     ]
+ [31.70258621 -0.34125   ]
+ [59.13362069  0.73125   ]
+ [57.65086207  0.6825    ]
+ [54.68534483  0.585     ]]
+
+
+
+expr_predX:  (71,) (71,) (71,)
+(array([-0.00219214,  0.46688898,  0.19987579,  0.46820814,  0.66829169,
+        0.13292748,  0.22830927, -0.29914819,  0.0725338 ,  0.23974643,
+        0.02923555,  0.10519772, -0.02584016, -0.11298873,  0.19966645,
+        0.11007842]), array([-0.00571982,  0.39414743,  0.16181636,  0.49923072,  0.40377709,
+        0.32243273,  0.27385059,  0.16009577,  0.1899077 ,  0.21496853,
+        0.18941853,  0.08535225,  0.13400041,  0.18480886,  0.18805819,
+        0.21630611]), array([0.04759403, 0.06984161, 0.03787873, 0.12912121, 0.13090498,
+       0.15389071, 0.15853898, 0.17211475, 0.1761444 , 0.17828021,
+       0.16603484, 0.0664469 , 0.18302122, 0.18126486, 0.18110526,
+       0.07354158]))
+0.7860963404623849
+Using dtype = torch.float64 
+Using device = cpu
+TR-0 starting from: 0.5798
+TR-1 starting from: 0.5658
+TR-2 starting from: 0.5854
+TR-3 starting from: 0.6474
+70) New best @ TR-1: 0.5518
+98) New best @ TR-1: 0.55
+106) New best @ TR-1: 0.549
+110) New best @ TR-1: 0.5464
+118) New best @ TR-1: 0.5458
+138) New best @ TR-1: 0.5439
+150) New best @ TR-1: 0.543
+190) TR-1 converged to: : 0.5428
+190) TR-1 is restarting from: : 0.6881
+319) TR-0 converged to: : 0.5446
+319) TR-0 is restarting from: : 0.6312
+492) TR-2 converged to: : 0.5445
+492) TR-2 is restarting from: : 0.7359
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+True
+False
+True
+False
+False
+True
+True
+True
+False
+False
+False
+False
+False
+True
+True
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+True
+False
+True
+False
+False
+False
+False
+True
+False
+True
+False
+False
+False
+False
+False
+False
+True
+False
+True
+False
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+nn_file reading finish
+stop_value_accurate:  0.5427929215654375
+
+ n:  5
+parameter_num:  7
+
+Num_sample_iterations: 6
+
+--------------------------------------------
+Sampled numbers of path_0: 16
+New samples_index: [(62, 46), (40, 14), (28, 20), (58, 46), (24, 51), (55, 54), (83, 6), (57, 16), (50, 57), (41, 24), (50, 53), (43, 48), (46, 40), (44, 41), (41, 34), (50, 43)]
+New samples: [[41.34051724  1.57333333]
+ [25.03017241 -1.57333333]
+ [16.13362069 -0.98333333]
+ [38.375       1.57333333]
+ [13.16810345  2.065     ]
+ [36.15086207  2.36      ]
+ [56.90948276 -2.36      ]
+ [37.63362069 -1.37666667]
+ [32.44396552  2.655     ]
+ [25.77155172 -0.59      ]
+ [32.44396552  2.26166667]
+ [27.25431034  1.77      ]
+ [29.47844828  0.98333333]
+ [27.99568966  1.08166667]
+ [25.77155172  0.39333333]
+ [32.44396552  1.27833333]]
+
+
+
+expr_predX:  (109,) (109,) (109,)
+(array([ 0.30335171,  0.27614112, -0.08781532,  0.44972979, -0.11308519,
+        0.29859731, -0.03144641, -0.05301244,  0.04532228,  0.14365858,
+        0.25819798,  0.17148305, -0.00662523,  0.09433295, -0.110347  ,
+        0.03803327]), array([ 0.49021905,  0.446015  ,  0.35078086,  0.3551923 ,  0.24105544,
+        0.22144154, -0.02359501,  0.26999886,  0.18496189,  0.1301264 ,
+        0.13781455,  0.09526615,  0.09769274,  0.09448634,  0.09696561,
+        0.0842343 ]), array([0.11941147, 0.13383359, 0.13907545, 0.08669847, 0.11611003,
+       0.0987829 , 0.03482018, 0.10271332, 0.07545621, 0.14757114,
+       0.12401796, 0.1779608 , 0.17411238, 0.1791432 , 0.16869328,
+       0.18859257]))
+0.6451408826455499
+
+Num_sample_iterations: 6
+
+--------------------------------------------
+Sampled numbers of path_1: 16
+New samples_index: [(34, 57), (19, 58), (62, 37), (28, 30), (58, 37), (18, 11), (46, 37), (37, 19), (52, 37), (49, 45), (52, 46), (52, 60), (60, 62), (82, 57), (82, 44), (82, 4)]
+New samples: [[20.58189655  2.4609375 ]
+ [ 9.4612069   2.559375  ]
+ [41.34051724  0.4921875 ]
+ [16.13362069 -0.196875  ]
+ [38.375       0.4921875 ]
+ [ 8.71982759 -2.0671875 ]
+ [29.47844828  0.4921875 ]
+ [22.80603448 -1.2796875 ]
+ [33.92672414  0.4921875 ]
+ [31.70258621  1.2796875 ]
+ [33.92672414  1.378125  ]
+ [33.92672414  2.75625   ]
+ [39.85775862  2.953125  ]
+ [56.16810345  2.4609375 ]
+ [56.16810345  1.18125   ]
+ [56.16810345 -2.75625   ]]
+
+
+
+expr_predX:  (94,) (94,) (94,)
+(array([-2.90078009e-02,  1.90136117e-02,  5.91221687e-01,  3.26813310e-01,
+        1.24599308e-01, -7.17259406e-04, -7.13476683e-01,  4.19863782e-01,
+        3.23144170e-01, -1.39834744e-02, -1.45022615e-02, -5.17018477e-02,
+       -1.61584073e-01, -8.33029029e-02,  3.07026792e-01, -4.09872907e-09]), array([-9.00384153e-02, -6.77277467e-02,  4.70783505e-01,  2.77901552e-01,
+        1.20752642e-01, -4.53841211e-04,  3.40821440e-01,  3.36434071e-01,
+        3.41468048e-01,  2.66859246e-01,  2.12099324e-01,  2.79592083e-01,
+        1.04342740e-01,  1.13425618e-01,  1.31912379e-01,  5.23413044e-02]), array([0.05687371, 0.06112553, 0.10914496, 0.08465918, 0.0438125 ,
+       0.0483329 , 0.2230937 , 0.20149808, 0.12031854, 0.20572803,
+       0.24279842, 0.20504576, 0.28646349, 0.2670173 , 0.21269747,
+       0.30730852]))
+0.3435351333167202
+
+Num_sample_iterations: 6
+
+--------------------------------------------
+Sampled numbers of path_2: 16
+New samples_index: [(28, 16), (58, 26), (60, 27), (86, 22), (82, 21), (24, 33), (78, 20), (75, 19), (71, 18), (68, 17), (65, 16), (62, 15), (45, 8), (54, 12), (47, 9), (30, 24)]
+New samples: [[ 1.61336207e+01 -1.95000000e-01]
+ [ 3.83750000e+01  2.92500000e-01]
+ [ 3.98577586e+01  3.41250000e-01]
+ [ 5.91336207e+01  9.75000000e-02]
+ [ 5.61681034e+01  4.87500000e-02]
+ [ 1.31681034e+01  6.33750000e-01]
+ [ 5.32025862e+01  0.00000000e+00]
+ [ 5.09784483e+01 -4.87500000e-02]
+ [ 4.80129310e+01 -9.75000000e-02]
+ [ 4.57887931e+01 -1.46250000e-01]
+ [ 4.35646552e+01 -1.95000000e-01]
+ [ 4.13405172e+01 -2.43750000e-01]
+ [ 2.87370690e+01 -5.85000000e-01]
+ [ 3.54094828e+01 -3.90000000e-01]
+ [ 3.02198276e+01 -5.36250000e-01]
+ [ 1.76163793e+01  1.95000000e-01]]
+
+
+
+expr_predX:  (82,) (82,) (82,)
+(array([ 0.03912654, -0.02653509, -0.20068898,  0.13956744, -0.20611902,
+        0.08506812,  0.18481836,  0.        ,  0.21229758, -0.06893938,
+        0.02298989,  0.19399948,  0.10947956, -0.03413272,  0.01444858,
+       -0.04229917]), array([ 0.06799247, -0.02581578, -0.17528739,  0.18621048, -0.0690934 ,
+        0.46141084,  0.53070174,  0.51817606,  0.06970275, -0.04461441,
+        0.04949107,  0.14708381,  0.08360045, -0.03495979, -0.02905231,
+        0.08334618]), array([0.00898109, 0.04889607, 0.07960078, 0.05306723, 0.06210136,
+       0.18096403, 0.17324688, 0.16122072, 0.26032244, 0.06223554,
+       0.04800009, 0.0569964 , 0.04752013, 0.0540639 , 0.06688474,
+       0.24319828]))
+0.5750869586342047
+Using dtype = torch.float64 
+Using device = cpu
+TR-0 starting from: 0.4685
+TR-1 starting from: 0.4666
+TR-2 starting from: 0.4725
+TR-3 starting from: 0.5318
+49) New best @ TR-0: 0.4502
+73) New best @ TR-0: 0.4458
+97) New best @ TR-0: 0.4384
+101) New best @ TR-0: 0.4345
+109) New best @ TR-0: 0.4289
+113) New best @ TR-0: 0.4225
+125) New best @ TR-0: 0.4221
+129) New best @ TR-0: 0.4195
+153) New best @ TR-0: 0.4185
+173) New best @ TR-0: 0.4173
+189) New best @ TR-0: 0.4164
+193) New best @ TR-0: 0.4159
+213) New best @ TR-0: 0.4148
+229) TR-0 converged to: : 0.4147
+229) TR-0 is restarting from: : 0.5834
+375) TR-1 converged to: : 0.4409
+375) TR-1 is restarting from: : 0.5252
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+True
+False
+True
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+True
+False
+True
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+True
+True
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+True
+True
+False
+False
+True
+False
+False
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+True
+False
+True
+False
+False
+nn_file reading finish
+stop_value_accurate:  0.4147117862311255
+
+ n:  6
+parameter_num:  8
+
+Num_sample_iterations: 7
+
+--------------------------------------------
+Sampled numbers of path_0: 16
+New samples_index: [(57, 44), (60, 44), (48, 14), (36, 14), (28, 50), (53, 53), (50, 52), (52, 14), (50, 46), (15, 59), (10, 23), (11, 35), (9, 37), (11, 39), (13, 34), (15, 35)]
+New samples: [[37.63362069  1.37666667]
+ [39.85775862  1.37666667]
+ [30.9612069  -1.57333333]
+ [22.06465517 -1.57333333]
+ [16.13362069  1.96666667]
+ [34.66810345  2.26166667]
+ [32.44396552  2.16333333]
+ [33.92672414 -1.57333333]
+ [32.44396552  1.57333333]
+ [ 6.49568966  2.85166667]
+ [ 2.7887931  -0.68833333]
+ [ 3.53017241  0.49166667]
+ [ 2.04741379  0.68833333]
+ [ 3.53017241  0.885     ]
+ [ 5.01293103  0.39333333]
+ [ 6.49568966  0.49166667]]
+
+
+
+expr_predX:  (121,) (121,) (121,)
+(array([ 6.86651662e-04,  6.95926036e-02, -1.83803017e-02,  7.37855349e-02,
+       -3.15057874e-02, -4.28030711e-02,  6.02523087e-02, -6.62295245e-02,
+        3.40085117e-01,  2.53983667e-01,  2.08125160e-01,  3.25318745e-01,
+       -2.92949954e-01, -7.72290640e-01,  1.10751928e-01, -1.21542110e-10]), array([-0.00093088,  0.06357912, -0.03143696,  0.08924722,  0.34003986,
+        0.29183852,  0.28158416,  0.23204774,  0.26556551,  0.23685329,
+        0.20127129,  0.1547325 ,  0.09870797,  0.08694685,  0.06759228,
+        0.07768804]), array([0.00559549, 0.03287108, 0.02343172, 0.06706652, 0.15356384,
+       0.14370666, 0.13604381, 0.17108517, 0.0832931 , 0.09710145,
+       0.10371814, 0.16498587, 0.17484946, 0.17257466, 0.18191511,
+       0.16544147]))
+0.1873562567691484
+
+Num_sample_iterations: 7
+
+--------------------------------------------
+Sampled numbers of path_1: 16
+New samples_index: [(28, 32), (35, 17), (53, 47), (39, 45), (16, 57), (64, 33), (38, 53), (38, 57), (50, 47), (53, 15), (58, 38), (26, 25), (30, 25), (60, 38), (58, 18), (58, 29)]
+New samples: [[16.13362069  0.        ]
+ [21.32327586 -1.4765625 ]
+ [34.66810345  1.4765625 ]
+ [24.2887931   1.2796875 ]
+ [ 7.23706897  2.4609375 ]
+ [42.82327586  0.0984375 ]
+ [23.54741379  2.0671875 ]
+ [23.54741379  2.4609375 ]
+ [32.44396552  1.4765625 ]
+ [34.66810345 -1.6734375 ]
+ [38.375       0.590625  ]
+ [14.65086207 -0.6890625 ]
+ [17.61637931 -0.6890625 ]
+ [39.85775862  0.590625  ]
+ [38.375      -1.378125  ]
+ [38.375      -0.2953125 ]]
+
+
+
+expr_predX:  (109,) (109,) (109,)
+(array([-0.00635337,  0.47547377,  0.07356087,  0.14458707,  0.23368623,
+        0.21432229,  0.25173056,  0.32678424,  0.39923157,  0.09641993,
+        0.15259189,  0.23605083,  0.2028873 ,  0.63832037,  0.03427473,
+        0.0702195 ]), array([-0.00111099,  0.57099089,  0.43623159,  0.40632951,  0.34205713,
+        0.31466618,  0.31239033,  0.28603413,  0.31637626,  0.29556341,
+        0.30097139,  0.25118706,  0.25152155,  0.27810012,  0.32020262,
+        0.15739427]), array([0.05384656, 0.16581963, 0.11151154, 0.09974279, 0.14986986,
+       0.15898177, 0.14519712, 0.14106866, 0.08933217, 0.11008682,
+       0.06669156, 0.12817548, 0.12750599, 0.08187874, 0.05165701,
+       0.20578673]))
+0.8295658348513402
+
+Num_sample_iterations: 7
+
+--------------------------------------------
+Sampled numbers of path_2: 16
+New samples_index: [(60, 28), (58, 28), (28, 14), (32, 15), (24, 27), (23, 32), (26, 33), (24, 34), (42, 28), (31, 12), (65, 8), (52, 34), (58, 35), (63, 36), (84, 39), (63, 22)]
+New samples: [[39.85775862  0.39      ]
+ [38.375       0.39      ]
+ [16.13362069 -0.2925    ]
+ [19.09913793 -0.24375   ]
+ [13.16810345  0.34125   ]
+ [12.42672414  0.585     ]
+ [14.65086207  0.63375   ]
+ [13.16810345  0.6825    ]
+ [26.51293103  0.39      ]
+ [18.35775862 -0.39      ]
+ [43.56465517 -0.585     ]
+ [33.92672414  0.6825    ]
+ [38.375       0.73125   ]
+ [42.08189655  0.78      ]
+ [57.65086207  0.92625   ]
+ [42.08189655  0.0975    ]]
+
+
+
+expr_predX:  (97,) (97,) (97,)
+(array([-0.21417057,  0.29239314,  0.02212294,  0.36150364,  0.23285784,
+       -0.004293  ,  0.1902352 ,  0.19644383,  0.24317128,  0.0594383 ,
+        0.35089892,  0.25476212, -0.13137862,  0.37306085,  0.28937634,
+        0.17564056]), array([-0.17639215,  0.53435078,  0.50091072,  0.38134816,  0.30688638,
+        0.1786411 ,  0.19427557,  0.20163327,  0.19448041,  0.18336484,
+        0.30132107,  0.11156522,  0.03612413,  0.0358549 ,  0.03899195,
+        0.13380763]), array([0.06601897, 0.11081112, 0.10191975, 0.08987936, 0.13510116,
+       0.15806838, 0.12846878, 0.11481838, 0.12285064, 0.13066076,
+       0.10336582, 0.18906559, 0.20815659, 0.20637679, 0.2031054 ,
+       0.17534593]))
+0.7196934803958961
+Using dtype = torch.float64 
+Using device = cpu
+TR-0 starting from: 0.4207
+TR-1 starting from: 0.4741
+TR-2 starting from: 0.4628
+TR-3 starting from: 0.4729
+79) New best @ TR-0: 0.4197
+99) New best @ TR-0: 0.4191
+103) New best @ TR-0: 0.4186
+115) New best @ TR-0: 0.417
+155) TR-0 converged to: : 0.4165
+155) TR-0 is restarting from: : 0.6141
+230) New best @ TR-1: 0.4134
+246) New best @ TR-1: 0.4105
+254) New best @ TR-1: 0.4082
+258) New best @ TR-1: 0.4068
+298) New best @ TR-1: 0.406
+314) TR-1 converged to: : 0.4057
+314) TR-1 is restarting from: : 0.5752
+465) TR-2 converged to: : 0.4381
+465) TR-2 is restarting from: : 0.6167
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+True
+False
+False
+False
+False
+False
+False
+True
+False
+True
+False
+False
+False
+True
+True
+True
+True
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+True
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+True
+False
+False
+True
+False
+False
+True
+False
+False
+False
+False
+False
+False
+True
+True
+False
+False
+False
+True
+False
+True
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+True
+False
+True
+False
+False
+False
+False
+False
+False
+False
+nn_file reading finish
+stop_value_accurate:  0.4056735739190541
+
+ n:  7
+parameter_num:  9
+
+Num_sample_iterations: 8
+
+--------------------------------------------
+Sampled numbers of path_0: 16
+New samples_index: [(54, 55), (60, 46), (32, 58), (46, 17), (53, 14), (27, 36), (37, 17), (15, 32), (50, 14), (27, 51), (20, 15), (50, 58), (50, 41), (58, 26), (60, 26), (25, 21)]
+New samples: [[35.40948276  2.45833333]
+ [39.85775862  1.57333333]
+ [19.09913793  2.75333333]
+ [29.47844828 -1.27833333]
+ [34.66810345 -1.57333333]
+ [15.39224138  0.59      ]
+ [22.80603448 -1.27833333]
+ [ 6.49568966  0.19666667]
+ [32.44396552 -1.57333333]
+ [15.39224138  2.065     ]
+ [10.20258621 -1.475     ]
+ [32.44396552  2.75333333]
+ [32.44396552  1.08166667]
+ [38.375      -0.39333333]
+ [39.85775862 -0.39333333]
+ [13.90948276 -0.885     ]]
+
+
+
+expr_predX:  (137,) (137,) (137,)
+(array([ 0.40113317,  0.43175435,  0.16861475,  0.00888126,  0.52454482,
+        0.01534129, -0.08011142, -0.1791765 ,  0.18785848,  0.167063  ,
+       -0.01055556,  0.19085811,  0.04328472,  0.70936261,  0.48355594,
+        0.4107728 ]), array([0.40885851, 0.33493259, 0.30335382, 0.26574586, 0.35476888,
+       0.2666962 , 0.23038114, 0.21238332, 0.26507192, 0.22802935,
+       0.13082199, 0.20712708, 0.12176111, 0.05880523, 0.05360099,
+       0.083158  ]), array([0.07006795, 0.06555614, 0.10911697, 0.14763495, 0.09162482,
+       0.12126727, 0.14376088, 0.16923213, 0.08281105, 0.05493076,
+       0.18207046, 0.05114408, 0.14606428, 0.2001974 , 0.20556722,
+       0.15654181]))
+0.5748104636602936
+
+Num_sample_iterations: 8
+
+--------------------------------------------
+Sampled numbers of path_1: 16
+New samples_index: [(37, 62), (63, 49), (21, 63), (37, 12), (58, 57), (64, 27), (52, 61), (50, 63), (79, 54), (86, 54), (31, 15), (78, 11), (79, 9), (63, 11), (65, 22), (86, 4)]
+New samples: [[22.80603448  2.953125  ]
+ [42.08189655  1.6734375 ]
+ [10.94396552  3.0515625 ]
+ [22.80603448 -1.96875   ]
+ [38.375       2.4609375 ]
+ [42.82327586 -0.4921875 ]
+ [33.92672414  2.8546875 ]
+ [32.44396552  3.0515625 ]
+ [53.94396552  2.165625  ]
+ [59.13362069  2.165625  ]
+ [18.35775862 -1.6734375 ]
+ [53.20258621 -2.0671875 ]
+ [53.94396552 -2.2640625 ]
+ [42.08189655 -2.0671875 ]
+ [43.56465517 -0.984375  ]
+ [59.13362069 -2.75625   ]]
+
+
+
+expr_predX:  (119,) (119,) (119,)
+(array([-3.93030385e-01, -3.27506962e-01,  9.80123634e-02,  5.03437334e-01,
+       -6.10067626e-01,  3.17682557e-02,  1.78403434e-01,  5.73353924e-01,
+       -1.14731597e-01, -6.81132616e-04, -6.81085296e-04,  5.11922471e-01,
+       -3.06820890e-04, -1.28953822e-04, -6.70462207e-03,  5.35218850e-01]), array([0.02487457, 0.02597127, 0.03522828, 0.0287319 , 0.02500246,
+       0.02492829, 0.03453256, 0.05381491, 0.0334075 , 0.01850787,
+       0.01983424, 0.03817172, 0.01801784, 0.01864203, 0.03472345,
+       0.03095725]), array([0.00540766, 0.00999397, 0.0086888 , 0.00655203, 0.00549062,
+       0.00541558, 0.00979224, 0.00827991, 0.01044895, 0.01107726,
+       0.00961593, 0.00847947, 0.01131175, 0.01104642, 0.00980733,
+       0.01096821]))
+0.3297686792998141
+
+Num_sample_iterations: 8
+
+--------------------------------------------
+Sampled numbers of path_2: 16
+New samples_index: [(26, 35), (63, 29), (64, 33), (21, 31), (57, 36), (54, 26), (33, 11), (19, 22), (23, 22), (24, 15), (83, 4), (32, 26), (49, 29), (44, 24), (84, 39), (65, 11)]
+New samples: [[14.65086207  0.73125   ]
+ [42.08189655  0.43875   ]
+ [42.82327586  0.63375   ]
+ [10.94396552  0.53625   ]
+ [37.63362069  0.78      ]
+ [35.40948276  0.2925    ]
+ [19.84051724 -0.43875   ]
+ [ 9.4612069   0.0975    ]
+ [12.42672414  0.0975    ]
+ [13.16810345 -0.24375   ]
+ [56.90948276 -0.78      ]
+ [19.09913793  0.2925    ]
+ [31.70258621  0.43875   ]
+ [27.99568966  0.195     ]
+ [57.65086207  0.92625   ]
+ [43.56465517 -0.43875   ]]
+
+
+
+expr_predX:  (112,) (112,) (112,)
+(array([ 1.64746708e-01,  4.97344290e-01,  4.31669951e-01, -7.40541044e-01,
+        6.88231719e-02,  1.92746346e-01,  2.95008676e-01,  3.10626287e-01,
+        2.78409131e-01,  3.62487203e-01,  4.06137126e-01, -7.01164078e-04,
+        4.69849662e-02, -9.49244978e-02,  1.48299735e-01,  2.60698311e-01]), array([0.20872746, 0.33934743, 0.4639157 , 0.29343712, 0.24949125,
+       0.31857316, 0.36242127, 0.37198007, 0.2121126 , 0.21516575,
+       0.19402352, 0.12018634, 0.14030993, 0.1532096 , 0.1337487 ,
+       0.19193548]), array([0.03711687, 0.14089434, 0.14949403, 0.19347392, 0.13815729,
+       0.13280909, 0.14388542, 0.14665354, 0.14453246, 0.14514711,
+       0.16501869, 0.20583066, 0.16070452, 0.17435855, 0.19656095,
+       0.14697374]))
+0.5491129151081316
+Using dtype = torch.float64 
+Using device = cpu
+TR-0 starting from: 0.4466
+TR-1 starting from: 0.4532
+TR-2 starting from: 0.4958
+TR-3 starting from: 0.4862
+112) New best @ TR-0: 0.4442
+120) New best @ TR-0: 0.4381
+188) TR-0 converged to: : 0.438
+188) TR-0 is restarting from: : 0.5026
+296) TR-1 converged to: : 0.4499
+296) TR-1 is restarting from: : 0.5491
+472) TR-2 converged to: : 0.4412
+472) TR-2 is restarting from: : 0.5968
+500) TR-3 converged to: : 0.4512
+500) TR-3 is restarting from: : 0.6068
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+True
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+True
+False
+True
+True
+False
+False
+True
+False
+True
+False
+True
+False
+False
+True
+False
+False
+True
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False
+False
+False
+True
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False
+False
+False
+True
+False
+False
+nn_file reading finish
+stop_value_accurate:  0.437971909708069
+
+ n:  8
+parameter_num:  10
+
+Num_sample_iterations: 9
+
+--------------------------------------------
+Sampled numbers of path_0: 16
+New samples_index: [(30, 38), (56, 26), (55, 56), (40, 25), (24, 22), (34, 57), (12, 39), (50, 54), (30, 50), (39, 47), (45, 49), (44, 35), (70, 35), (50, 24), (77, 6), (85, 7)]
+New samples: [[17.61637931  0.78666667]
+ [36.89224138 -0.39333333]
+ [36.15086207  2.55666667]
+ [25.03017241 -0.49166667]
+ [13.16810345 -0.78666667]
+ [20.58189655  2.655     ]
+ [ 4.27155172  0.885     ]
+ [32.44396552  2.36      ]
+ [17.61637931  1.96666667]
+ [24.2887931   1.67166667]
+ [28.73706897  1.86833333]
+ [27.99568966  0.49166667]
+ [47.27155172  0.49166667]
+ [32.44396552 -0.59      ]
+ [52.4612069  -2.36      ]
+ [58.39224138 -2.26166667]]
+
+
+
+expr_predX:  (151,) (151,) (151,)
+(array([-9.42325068e-02,  3.87624570e-01,  1.97647700e-01,  5.30931261e-01,
+        4.43939022e-02,  1.10414783e-01,  2.78816920e-01,  2.46428831e-01,
+        2.15923036e-01,  3.22623032e-01,  1.77509369e-01,  1.10024375e-01,
+        5.27422337e-01,  4.41632495e-01, -2.52491726e-02, -1.09425605e-04]), array([ 0.05801147,  0.34243779,  0.4017493 ,  0.38762414,  0.42073889,
+        0.34443462,  0.34361533,  0.36001184,  0.32180849,  0.28055452,
+        0.18935677,  0.20544318,  0.19750855,  0.12730856, -0.00518843,
+        0.05361767]), array([0.0594226 , 0.05637445, 0.12114233, 0.1006652 , 0.05711267,
+       0.0962398 , 0.09221083, 0.0563127 , 0.04911685, 0.09153248,
+       0.14677116, 0.09804457, 0.10513   , 0.14482445, 0.05161444,
+       0.03835937]))
+0.7941910181816
+
+Num_sample_iterations: 9
+
+--------------------------------------------
+Sampled numbers of path_1: 16
+New samples_index: [(34, 56), (29, 15), (21, 58), (27, 32), (29, 32), (37, 43), (67, 23), (63, 40), (16, 38), (12, 41), (10, 40), (61, 17), (53, 17), (40, 18), (37, 22), (52, 60)]
+New samples: [[20.58189655  2.3625    ]
+ [16.875      -1.6734375 ]
+ [10.94396552  2.559375  ]
+ [15.39224138  0.        ]
+ [16.875       0.        ]
+ [22.80603448  1.0828125 ]
+ [45.04741379 -0.8859375 ]
+ [42.08189655  0.7875    ]
+ [ 7.23706897  0.590625  ]
+ [ 4.27155172  0.8859375 ]
+ [ 2.7887931   0.7875    ]
+ [40.59913793 -1.4765625 ]
+ [34.66810345 -1.4765625 ]
+ [25.03017241 -1.378125  ]
+ [22.80603448 -0.984375  ]
+ [33.92672414  2.75625   ]]
+
+
+
+expr_predX:  (131,) (131,) (131,)
+(array([-0.00571649, -0.00288796, -0.0145188 ,  0.2001826 , -0.02176528,
+        0.18159864, -0.04445292,  0.20269951,  0.15581795, -0.23664722,
+        0.12423473,  0.02259877,  0.02583657, -0.03438471, -0.24796419,
+        0.05649427]), array([-0.00368468, -0.00080982, -0.00881297,  0.22176226,  0.53993352,
+        0.43683787,  0.34480772,  0.34342866,  0.2011443 ,  0.25756644,
+        0.34870131,  0.16501425,  0.21107584,  0.21689487,  0.17542685,
+        0.12158458]), array([0.04798834, 0.04754689, 0.05076302, 0.05767297, 0.09769315,
+       0.13727399, 0.08742963, 0.08742589, 0.1519413 , 0.12585867,
+       0.14865319, 0.16229472, 0.07360879, 0.07553764, 0.13164357,
+       0.15311583]))
+0.2548447289394559
+
+Num_sample_iterations: 9
+
+--------------------------------------------
+Sampled numbers of path_2: 16
+New samples_index: [(20, 21), (27, 36), (52, 11), (78, 20), (85, 22), (81, 21), (74, 19), (71, 18), (21, 15), (40, 30), (66, 6), (16, 31), (56, 37), (86, 9), (62, 27), (66, 29)]
+New samples: [[ 1.02025862e+01  4.87500000e-02]
+ [ 1.53922414e+01  7.80000000e-01]
+ [ 3.39267241e+01 -4.38750000e-01]
+ [ 5.32025862e+01  0.00000000e+00]
+ [ 5.83922414e+01  9.75000000e-02]
+ [ 5.54267241e+01  4.87500000e-02]
+ [ 5.02370690e+01 -4.87500000e-02]
+ [ 4.80129310e+01 -9.75000000e-02]
+ [ 1.09439655e+01 -2.43750000e-01]
+ [ 2.50301724e+01  4.87500000e-01]
+ [ 4.43060345e+01 -6.82500000e-01]
+ [ 7.23706897e+00  5.36250000e-01]
+ [ 3.68922414e+01  8.28750000e-01]
+ [ 5.91336207e+01 -5.36250000e-01]
+ [ 4.13405172e+01  3.41250000e-01]
+ [ 4.43060345e+01  4.38750000e-01]]
+
+
+
+expr_predX:  (122,) (122,) (122,)
+(array([ 2.31295872e-01, -5.27176353e-03, -3.23389894e-01, -1.48477268e-01,
+        1.19039858e-01, -6.29211954e-01,  1.60895624e-01, -2.60084599e-01,
+       -5.66121203e-04,  1.29079824e-01, -5.04804717e-02, -1.69719946e-02,
+        1.66206920e-01,  1.22530207e-01,  1.23189158e-01,  5.23067620e-01]), array([ 0.23584302, -0.00481541, -0.26782748, -0.1433197 ,  0.12030701,
+       -0.3694166 ,  0.41068005,  0.31453473,  0.0435428 ,  0.19678557,
+        0.13735514,  0.12306192,  0.04947974,  0.17693943,  0.34164187,
+        0.21356533]), array([0.06106174, 0.02929032, 0.07312856, 0.05600271, 0.03959845,
+       0.0895366 , 0.13294361, 0.14115402, 0.06281973, 0.15729887,
+       0.1920814 , 0.19080963, 0.19461568, 0.12137581, 0.10859831,
+       0.15607851]))
+0.6377543780493157
+Using dtype = torch.float64 
+Using device = cpu
+TR-0 starting from: 0.4258
+TR-1 starting from: 0.4349
+TR-2 starting from: 0.4175
+TR-3 starting from: 0.4635
+132) New best @ TR-2: 0.4162
+136) New best @ TR-2: 0.4107
+160) New best @ TR-2: 0.4098
+204) TR-2 converged to: : 0.4094
+204) TR-2 is restarting from: : 0.5502
+337) TR-0 converged to: : 0.4099
+337) TR-0 is restarting from: : 0.5715
+438) TR-3 converged to: : 0.4202
+438) TR-3 is restarting from: : 0.4903
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+True
+False
+False
+True
+False
+False
+True
+False
+False
+True
+False
+True
+True
+False
+False
+False
+False
+True
+False
+False
+False
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False
+True
+False
+False
+True
+False
+False
+True
+False
+False
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+nn_file reading finish
+stop_value_accurate:  0.4094366849770272
+
+ n:  9
+parameter_num:  11
+
+Num_sample_iterations: 10
+
+--------------------------------------------
+Sampled numbers of path_0: 16
+New samples_index: [(49, 23), (52, 24), (45, 35), (27, 39), (12, 39), (32, 50), (37, 27), (31, 24), (35, 16), (27, 22), (35, 56), (50, 55), (52, 35), (50, 49), (10, 59), (78, 59)]
+New samples: [[31.70258621 -0.68833333]
+ [33.92672414 -0.59      ]
+ [28.73706897  0.49166667]
+ [15.39224138  0.885     ]
+ [ 4.27155172  0.885     ]
+ [19.09913793  1.96666667]
+ [22.80603448 -0.295     ]
+ [18.35775862 -0.59      ]
+ [21.32327586 -1.37666667]
+ [15.39224138 -0.78666667]
+ [21.32327586  2.55666667]
+ [32.44396552  2.45833333]
+ [33.92672414  0.49166667]
+ [32.44396552  1.86833333]
+ [ 2.7887931   2.85166667]
+ [53.20258621  2.85166667]]
+
+
+
+expr_predX:  (165,) (165,) (165,)
+(array([-0.06741093, -0.05052134,  0.19245605,  0.50795435,  0.54457618,
+        0.0831122 ,  0.41479685,  0.0049721 ,  0.06328508,  0.70827035,
+        0.40006969,  0.40067536,  0.29365914,  0.48789885, -0.10022184,
+       -0.00535099]), array([-0.03313533, -0.04024987,  0.49522643,  0.45990915,  0.4161611 ,
+        0.229009  ,  0.23752957,  0.19096473,  0.19566174,  0.2204584 ,
+        0.2417212 ,  0.22875997,  0.23806425,  0.1386826 ,  0.16477152,
+        0.08423137]), array([0.03741423, 0.03509877, 0.1084575 , 0.10436326, 0.08724698,
+       0.12138023, 0.09353696, 0.14031205, 0.1273828 , 0.08582757,
+       0.04660577, 0.05927308, 0.04025791, 0.15918314, 0.12051953,
+       0.17075191]))
+0.7967212734620586
+
+Num_sample_iterations: 10
+
+--------------------------------------------
+Sampled numbers of path_1: 16
+New samples_index: [(35, 43), (31, 28), (38, 57), (36, 23), (64, 40), (19, 55), (52, 47), (42, 46), (66, 21), (60, 35), (31, 16), (58, 35), (64, 23), (55, 36), (54, 24), (37, 16)]
+New samples: [[21.32327586  1.0828125 ]
+ [18.35775862 -0.39375   ]
+ [23.54741379  2.4609375 ]
+ [22.06465517 -0.8859375 ]
+ [42.82327586  0.7875    ]
+ [ 9.4612069   2.2640625 ]
+ [33.92672414  1.4765625 ]
+ [26.51293103  1.378125  ]
+ [44.30603448 -1.0828125 ]
+ [39.85775862  0.2953125 ]
+ [18.35775862 -1.575     ]
+ [38.375       0.2953125 ]
+ [42.82327586 -0.8859375 ]
+ [36.15086207  0.39375   ]
+ [35.40948276 -0.7875    ]
+ [22.80603448 -1.575     ]]
+
+
+
+expr_predX:  (146,) (146,) (146,)
+(array([ 0.37413274, -0.13376658,  0.31939826,  0.219888  ,  0.37938765,
+        0.36664237,  0.19411357, -0.05145594,  0.36768137,  0.24261594,
+        0.27188917,  0.06132506,  0.6785841 ,  0.2409093 , -0.01815671,
+        0.41570469]), array([0.40911167, 0.41894819, 0.37267053, 0.39423147, 0.39106531,
+       0.33128198, 0.34980783, 0.25901133, 0.31282577, 0.30043364,
+       0.30061941, 0.28734782, 0.28201384, 0.21911945, 0.20475159,
+       0.29471545]), array([0.07216931, 0.14108415, 0.15552294, 0.11873011, 0.09564269,
+       0.09791384, 0.05098309, 0.15530507, 0.11687269, 0.08537398,
+       0.09486147, 0.0824043 , 0.112871  , 0.12518133, 0.15289542,
+       0.07894627]))
+0.7753406306061802
+
+Num_sample_iterations: 10
+
+--------------------------------------------
+Sampled numbers of path_2: 16
+New samples_index: [(66, 30), (16, 21), (28, 38), (14, 32), (41, 26), (23, 20), (21, 18), (34, 31), (58, 34), (52, 12), (31, 17), (54, 13), (55, 25), (68, 9), (60, 34), (57, 14)]
+New samples: [[44.30603448  0.4875    ]
+ [ 7.23706897  0.04875   ]
+ [16.13362069  0.8775    ]
+ [ 5.75431034  0.585     ]
+ [25.77155172  0.2925    ]
+ [12.42672414  0.        ]
+ [10.94396552 -0.0975    ]
+ [20.58189655  0.53625   ]
+ [38.375       0.6825    ]
+ [33.92672414 -0.39      ]
+ [18.35775862 -0.14625   ]
+ [35.40948276 -0.34125   ]
+ [36.15086207  0.24375   ]
+ [45.7887931  -0.53625   ]
+ [39.85775862  0.6825    ]
+ [37.63362069 -0.2925    ]]
+
+
+
+expr_predX:  (138,) (138,) (138,)
+(array([ 6.54086190e-01,  3.88821418e-01,  2.51328074e-01, -8.85335086e-05,
+        2.51917551e-01,  1.53817156e-01,  9.71592292e-02,  2.60815376e-01,
+        2.71013040e-01,  8.93791546e-02,  1.53397217e-01, -1.73937995e-01,
+       -2.59923786e-02,  2.55425952e-01,  3.58219889e-01,  1.80988127e-02]), array([0.41575905, 0.16397806, 0.14920867, 0.15388136, 0.17377413,
+       0.13730712, 0.12334528, 0.09684752, 0.18656649, 0.13942205,
+       0.17439747, 0.03759694, 0.28046406, 0.1698336 , 0.18141593,
+       0.05119688]), array([0.08868461, 0.09534582, 0.10565646, 0.08915206, 0.08649367,
+       0.09188543, 0.11343514, 0.11289509, 0.07598229, 0.02945903,
+       0.09533614, 0.02609934, 0.0797619 , 0.09537046, 0.07813128,
+       0.02615581]))
+0.8366753968338364
+Using dtype = torch.float64 
+Using device = cpu
+TR-0 starting from: 0.3923
+TR-1 starting from: 0.3922
+TR-2 starting from: 0.4041
+TR-3 starting from: 0.386
+151) New best @ TR-0: 0.384
+195) New best @ TR-0: 0.3812
+279) New best @ TR-0: 0.3805
+291) New best @ TR-0: 0.3799
+323) TR-1 converged to: : 0.3812
+323) TR-1 is restarting from: : 0.4919
+341) TR-3 converged to: : 0.3818
+341) TR-3 is restarting from: : 0.4741
+371) TR-0 converged to: : 0.3799
+371) TR-0 is restarting from: : 0.4962
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+True
+False
+True
+False
+False
+False
+False
+False
+True
+True
+False
+False
+True
+False
+True
+False
+False
+True
+False
+False
+False
+False
+False
+False
+True
+False
+False
+True
+True
+False
+False
+False
+False
+False
+True
+True
+False
+False
+False
+False
+False
+False
+True
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+True
+True
+True
+False
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+nn_file reading finish
+stop_value_accurate:  0.37987842437471775
+
+ n:  10
+parameter_num:  12
+
+Num_sample_iterations: 11
+
+--------------------------------------------
+Sampled numbers of path_0: 16
+New samples_index: [(77, 8), (83, 9), (86, 9), (71, 7), (65, 6), (60, 5), (55, 4), (52, 3), (82, 12), (47, 2), (56, 54), (26, 59), (86, 13), (50, 3), (34, 19), (74, 12)]
+New samples: [[52.4612069  -2.16333333]
+ [56.90948276 -2.065     ]
+ [59.13362069 -2.065     ]
+ [48.01293103 -2.26166667]
+ [43.56465517 -2.36      ]
+ [39.85775862 -2.45833333]
+ [36.15086207 -2.55666667]
+ [33.92672414 -2.655     ]
+ [56.16810345 -1.77      ]
+ [30.21982759 -2.75333333]
+ [36.89224138  2.36      ]
+ [14.65086207  2.85166667]
+ [59.13362069 -1.67166667]
+ [32.44396552 -2.655     ]
+ [20.58189655 -1.08166667]
+ [50.23706897 -1.77      ]]
+
+
+
+expr_predX:  (178,) (178,) (178,)
+(array([-0.31342134,  0.01825283, -0.00063793, -0.00955561, -0.05193874,
+       -0.0511085 ,  0.02155922,  0.10647687,  0.32402822, -0.13221285,
+        0.27299769,  0.31373966,  0.03069566,  0.3507677 ,  0.08677922,
+       -0.08765288]), array([ 0.02583098,  0.02493828, -0.00898197, -0.0112086 , -0.00144871,
+        0.0056533 ,  0.0207901 ,  0.02330639,  0.03251152,  0.02608822,
+        0.02286965,  0.03390125,  0.0322888 ,  0.02533909,  0.02923033,
+       -0.01123689]), array([0.00458451, 0.00348457, 0.00945496, 0.0091977 , 0.00782329,
+       0.00763214, 0.00874149, 0.0051879 , 0.00663897, 0.00487887,
+       0.00622671, 0.00687165, 0.00896156, 0.00424354, 0.00765809,
+       0.00920006]))
+0.4737150349349202
+
+Num_sample_iterations: 11
+
+--------------------------------------------
+Sampled numbers of path_1: 16
+New samples_index: [(61, 39), (30, 29), (26, 23), (19, 53), (38, 57), (61, 34), (58, 34), (19, 36), (31, 52), (43, 48), (63, 23), (39, 43), (68, 20), (60, 19), (22, 62), (38, 21)]
+New samples: [[40.59913793  0.6890625 ]
+ [17.61637931 -0.2953125 ]
+ [14.65086207 -0.8859375 ]
+ [ 9.4612069   2.0671875 ]
+ [23.54741379  2.4609375 ]
+ [40.59913793  0.196875  ]
+ [38.375       0.196875  ]
+ [ 9.4612069   0.39375   ]
+ [18.35775862  1.96875   ]
+ [27.25431034  1.575     ]
+ [42.08189655 -0.8859375 ]
+ [24.2887931   1.0828125 ]
+ [45.7887931  -1.18125   ]
+ [39.85775862 -1.2796875 ]
+ [11.68534483  2.953125  ]
+ [23.54741379 -1.0828125 ]]
+
+
+
+expr_predX:  (160,) (160,) (160,)
+(array([ 0.01161211,  0.26474332,  0.68284464, -0.29453488,  0.38941809,
+        0.49430583,  0.32330842,  0.10346135,  0.31438485,  0.66608604,
+       -0.10459599,  0.52640238, -0.07046682, -0.06193099,  0.21670781,
+        0.19193537]), array([0.00553932, 0.22409049, 0.39947667, 0.38138073, 0.29846224,
+       0.21826417, 0.2488522 , 0.18277298, 0.09015518, 0.0929864 ,
+       0.08231422, 0.1666186 , 0.12413343, 0.12200134, 0.18410071,
+       0.14767456]), array([0.03230935, 0.04336396, 0.07349246, 0.07360013, 0.11240547,
+       0.13090244, 0.04503168, 0.03779702, 0.15429451, 0.13467486,
+       0.11873261, 0.07134271, 0.05337668, 0.11513698, 0.05297886,
+       0.07244896]))
+0.6262004379262643
+
+Num_sample_iterations: 11
+
+--------------------------------------------
+Sampled numbers of path_2: 16
+New samples_index: [(15, 21), (29, 39), (28, 23), (68, 31), (29, 32), (54, 14), (61, 17), (56, 15), (65, 37), (63, 18), (50, 25), (57, 34), (68, 20), (79, 23), (76, 22), (73, 21)]
+New samples: [[ 6.49568966e+00  4.87500000e-02]
+ [ 1.68750000e+01  9.26250000e-01]
+ [ 1.61336207e+01  1.46250000e-01]
+ [ 4.57887931e+01  5.36250000e-01]
+ [ 1.68750000e+01  5.85000000e-01]
+ [ 3.54094828e+01 -2.92500000e-01]
+ [ 4.05991379e+01 -1.46250000e-01]
+ [ 3.68922414e+01 -2.43750000e-01]
+ [ 4.35646552e+01  8.28750000e-01]
+ [ 4.20818966e+01 -9.75000000e-02]
+ [ 3.24439655e+01  2.43750000e-01]
+ [ 3.76336207e+01  6.82500000e-01]
+ [ 4.57887931e+01  0.00000000e+00]
+ [ 5.39439655e+01  1.46250000e-01]
+ [ 5.17198276e+01  9.75000000e-02]
+ [ 4.94956897e+01  4.87500000e-02]]
+
+
+
+expr_predX:  (151,) (151,) (151,)
+(array([ 0.07204409,  0.07996641, -0.1007654 ,  0.48298154, -0.00817806,
+        0.36580123, -0.39082784, -0.31630838, -0.01508932,  0.24363333,
+        0.01454498,  0.2508868 ,  0.13269826,  0.26725604,  0.0893066 ,
+       -0.01455421]), array([ 0.09150152,  0.11123884,  0.00807406,  0.34330117,  0.21172352,
+        0.25413697,  0.32652989,  0.13500687, -0.01029258,  0.08267812,
+       -0.00284514,  0.1439035 ,  0.09872592,  0.20156157,  0.19412903,
+        0.08050825]), array([0.0176747 , 0.00649556, 0.02696538, 0.07239336, 0.09052664,
+       0.09423442, 0.109426  , 0.09010794, 0.04611545, 0.04775466,
+       0.05434881, 0.09866656, 0.06107856, 0.10030019, 0.05525944,
+       0.1141013 ]))
+0.36880144948469235
+Using dtype = torch.float64 
+Using device = cpu
+TR-0 starting from: 0.4898
+TR-1 starting from: 0.5065
+TR-2 starting from: 0.5
+TR-3 starting from: 0.5147
+141) New best @ TR-2: 0.487
+153) New best @ TR-2: 0.4838
+177) New best @ TR-2: 0.4818
+193) New best @ TR-2: 0.4799
+225) New best @ TR-2: 0.4793
+229) New best @ TR-2: 0.4788
+237) New best @ TR-2: 0.4779
+241) New best @ TR-2: 0.4772
+257) New best @ TR-2: 0.4766
+285) TR-2 converged to: : 0.4766
+285) TR-2 is restarting from: : 0.5768
+364) TR-0 converged to: : 0.4871
+364) TR-0 is restarting from: : 0.6805
+463) TR-1 converged to: : 0.486
+463) TR-1 is restarting from: : 0.6813
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+True
+True
+False
+True
+False
+False
+False
+False
+False
+False
+True
+True
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+False
+False
+False
+True
+False
+False
+True
+False
+False
+False
+True
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+True
+False
+True
+False
+False
+False
+False
+False
+True
+False
+False
+False
+True
+False
+False
+True
+False
+False
+True
+True
+False
+False
+False
+True
+True
+False
+False
+True
+False
+False
+False
+False
+False
+True
+False
+True
+nn_file reading finish
+stop_value_accurate:  0.4765647504050845
+
+ n:  11
+parameter_num:  13
+
+Num_sample_iterations: 12
+
+--------------------------------------------
+Sampled numbers of path_0: 16
+New samples_index: [(60, 27), (58, 27), (22, 23), (49, 34), (52, 34), (34, 16), (49, 25), (36, 29), (12, 59), (60, 45), (58, 45), (24, 56), (32, 57), (35, 49), (31, 36), (52, 25)]
+New samples: [[39.85775862 -0.295     ]
+ [38.375      -0.295     ]
+ [11.68534483 -0.68833333]
+ [31.70258621  0.39333333]
+ [33.92672414  0.39333333]
+ [20.58189655 -1.37666667]
+ [31.70258621 -0.49166667]
+ [22.06465517 -0.09833333]
+ [ 4.27155172  2.85166667]
+ [39.85775862  1.475     ]
+ [38.375       1.475     ]
+ [13.16810345  2.55666667]
+ [19.09913793  2.655     ]
+ [21.32327586  1.86833333]
+ [18.35775862  0.59      ]
+ [33.92672414 -0.49166667]]
+
+
+
+expr_predX:  (193,) (193,) (193,)
+(array([-2.56458760e-04,  7.71720289e-01,  4.20032689e-01,  6.82914878e-02,
+        3.91907480e-01,  6.23586731e-01,  6.18001279e-01,  3.87565738e-01,
+       -5.41889575e-03, -6.63276722e-01,  5.35332573e-01,  2.89293542e-02,
+        2.96238737e-01,  3.38052853e-01,  4.37797672e-01,  5.92458100e-01]), array([0.01558594, 0.79323042, 0.77655873, 0.57975721, 0.58822472,
+       0.61165051, 0.53636593, 0.47249863, 0.36617167, 0.59043874,
+       0.57510255, 0.33905311, 0.46066047, 0.33786889, 0.31785354,
+       0.44539851]), array([0.06167231, 0.13181104, 0.119819  , 0.16953854, 0.1666951 ,
+       0.13000201, 0.11022975, 0.12755497, 0.17403443, 0.06936482,
+       0.07011702, 0.15915714, 0.07269905, 0.15525674, 0.1577879 ,
+       0.08100635]))
+0.7051422981956891
+
+Num_sample_iterations: 12
+
+--------------------------------------------
+Sampled numbers of path_1: 16
+New samples_index: [(31, 50), (63, 39), (63, 24), (26, 28), (20, 52), (24, 22), (33, 26), (49, 35), (43, 42), (52, 35), (32, 15), (18, 34), (36, 59), (36, 15), (21, 37), (39, 15)]
+New samples: [[18.35775862  1.771875  ]
+ [42.08189655  0.6890625 ]
+ [42.08189655 -0.7875    ]
+ [14.65086207 -0.39375   ]
+ [10.20258621  1.96875   ]
+ [13.16810345 -0.984375  ]
+ [19.84051724 -0.590625  ]
+ [31.70258621  0.2953125 ]
+ [27.25431034  0.984375  ]
+ [33.92672414  0.2953125 ]
+ [19.09913793 -1.6734375 ]
+ [ 8.71982759  0.196875  ]
+ [22.06465517  2.6578125 ]
+ [22.06465517 -1.6734375 ]
+ [10.94396552  0.4921875 ]
+ [24.2887931  -1.6734375 ]]
+
+
+
+expr_predX:  (175,) (175,) (175,)
+(array([ 2.89372536e-01,  5.21235138e-01,  7.02704012e-01,  6.77979773e-01,
+        2.83390135e-01, -6.17409437e-04,  2.25826644e-01,  4.45338257e-01,
+        3.93525405e-02,  1.09373895e-01,  1.61807343e-02,  2.23257455e-01,
+        2.59369574e-01,  6.44146287e-02,  7.80961706e-02,  1.48636380e-01]), array([0.31964126, 0.61448794, 0.7018843 , 0.67270022, 0.546383  ,
+       0.5005643 , 0.45119734, 0.44833765, 0.36255767, 0.38883092,
+       0.34871384, 0.42112006, 0.29436629, 0.41636057, 0.2967377 ,
+       0.32893796]), array([0.04641018, 0.18369033, 0.08280724, 0.10264085, 0.12989928,
+       0.13783563, 0.16024576, 0.14551772, 0.18382944, 0.12243664,
+       0.15581912, 0.07313193, 0.17944098, 0.0670267 , 0.15745947,
+       0.13070843]))
+0.8665149901798022
+
+Num_sample_iterations: 12
+
+--------------------------------------------
+Sampled numbers of path_2: 16
+New samples_index: [(12, 21), (24, 35), (24, 38), (68, 29), (64, 30), (70, 8), (67, 10), (31, 22), (68, 37), (45, 31), (37, 33), (27, 24), (48, 23), (86, 10), (34, 15), (30, 15)]
+New samples: [[ 4.27155172e+00  4.87500000e-02]
+ [ 1.31681034e+01  7.31250000e-01]
+ [ 1.31681034e+01  8.77500000e-01]
+ [ 4.57887931e+01  4.38750000e-01]
+ [ 4.28232759e+01  4.87500000e-01]
+ [ 4.72715517e+01 -5.85000000e-01]
+ [ 4.50474138e+01 -4.87500000e-01]
+ [ 1.83577586e+01  9.75000000e-02]
+ [ 4.57887931e+01  8.28750000e-01]
+ [ 2.87370690e+01  5.36250000e-01]
+ [ 2.28060345e+01  6.33750000e-01]
+ [ 1.53922414e+01  1.95000000e-01]
+ [ 3.09612069e+01  1.46250000e-01]
+ [ 5.91336207e+01 -4.87500000e-01]
+ [ 2.05818966e+01 -2.43750000e-01]
+ [ 1.76163793e+01 -2.43750000e-01]]
+
+
+
+expr_predX:  (164,) (164,) (164,)
+(array([ 0.21717514,  0.21403641, -0.00692345,  0.40217449,  0.38720378,
+        0.74039998, -0.02199178,  0.4240286 ,  0.13653884, -0.00613062,
+        0.01982231,  0.42512317, -0.14300786,  0.11513925,  0.20621252,
+        0.61372581]), array([0.23272048, 0.23965431, 0.00215244, 0.3380454 , 0.1899026 ,
+       0.59405776, 0.21477656, 0.326582  , 0.17877335, 0.250174  ,
+       0.16161129, 0.12862332, 0.24641477, 0.22060325, 0.25388777,
+       0.38266828]), array([0.06321892, 0.04099789, 0.05324533, 0.09665601, 0.1783531 ,
+       0.10229475, 0.15170334, 0.10100482, 0.16941514, 0.14996695,
+       0.18853785, 0.19677   , 0.08841726, 0.17243992, 0.1205785 ,
+       0.0602445 ]))
+0.8403678954560924
+Using dtype = torch.float64 
+Using device = cpu
+TR-0 starting from: 0.3528
+TR-1 starting from: 0.3607
+TR-2 starting from: 0.3617
+TR-3 starting from: 0.3779
+94) New best @ TR-2: 0.352
+114) New best @ TR-0: 0.3501
+118) New best @ TR-1: 0.3488
+134) New best @ TR-2: 0.3476
+142) New best @ TR-0: 0.3469
+174) New best @ TR-0: 0.3439
+178) New best @ TR-1: 0.3401
+210) New best @ TR-1: 0.3376
+262) New best @ TR-1: 0.3369
+290) New best @ TR-1: 0.3362
+318) TR-1 converged to: : 0.3358
