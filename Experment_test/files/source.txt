@@ -1,2 +1,0 @@
-source /work/projects/p0020541/Yixuan/spinw/spinw_env/bin/activate
-ml matlab/R2023a

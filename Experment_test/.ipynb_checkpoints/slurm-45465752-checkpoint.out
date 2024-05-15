@@ -1,6 +1,0 @@
-Lmod: unloading matlab R2023a 
-Lmod: loading matlab R2023a 
-  File "/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py", line 877
-    simple_KF(root_path, Q, x_point['Pred_residual'], x_point['Pred_resivar'] len(x_point['X_best']))
-                                                                              ^
-SyntaxError: invalid syntax
