@@ -1,0 +1,36 @@
+Lmod: unloading matlab R2023a 
+Lmod: loading matlab R2023a 
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/para_results.txt: No such file or directory
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/dict_candi: No such file or directory
+Traceback (most recent call last):
+  File "/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py", line 825, in <module>
+    result = BO_search_SW_Turbo(fun_q, n_trust_regions=8, batch_size=2, max_evals=max_evals)
+  File "/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py", line 532, in BO_search_SW_Turbo
+    turbo_m.optimize()
+  File "/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/software/turbo_bwo/turbo_m.py", line 334, in optimize
+    X_cand[i, :, :], y_cand[i, :, :], self.hypers[i] = self._create_candidates(
+  File "/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/software/turbo_bwo/turbo_1.py", line 173, in _create_candidates
+    gp = train_gp(
+  File "/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/software/turbo_bwo/gp.py", line 90, in train_gp
+    loss = -mll(output, train_y)
+  File "/work/projects/p0020541/Yixuan/spinw/spinw_env/lib/python3.9/site-packages/gpytorch/module.py", line 31, in __call__
+    outputs = self.forward(*inputs, **kwargs)
+  File "/work/projects/p0020541/Yixuan/spinw/spinw_env/lib/python3.9/site-packages/gpytorch/mlls/exact_marginal_log_likelihood.py", line 64, in forward
+    res = output.log_prob(target)
+  File "/work/projects/p0020541/Yixuan/spinw/spinw_env/lib/python3.9/site-packages/gpytorch/distributions/multivariate_normal.py", line 171, in log_prob
+    return super().log_prob(value)
+  File "/work/projects/p0020541/Yixuan/spinw/spinw_env/lib/python3.9/site-packages/torch/distributions/multivariate_normal.py", line 248, in log_prob
+    M = _batch_mahalanobis(self._unbroadcasted_scale_tril, diff)
+  File "/work/projects/p0020541/Yixuan/spinw/spinw_env/lib/python3.9/site-packages/gpytorch/distributions/multivariate_normal.py", line 88, in _unbroadcasted_scale_tril
+    ust = to_dense(self.lazy_covariance_matrix.cholesky())
+  File "/work/projects/p0020541/Yixuan/spinw/spinw_env/lib/python3.9/site-packages/linear_operator/operators/_linear_operator.py", line 1303, in cholesky
+    chol = self._cholesky(upper=False)
+  File "/work/projects/p0020541/Yixuan/spinw/spinw_env/lib/python3.9/site-packages/linear_operator/utils/memoize.py", line 59, in g
+    return _add_to_cache(self, cache_name, method(self, *args, **kwargs), *args, kwargs_pkl=kwargs_pkl)
+  File "/work/projects/p0020541/Yixuan/spinw/spinw_env/lib/python3.9/site-packages/linear_operator/operators/_linear_operator.py", line 522, in _cholesky
+    cholesky = psd_safe_cholesky(evaluated_mat, upper=upper).contiguous()
+  File "/work/projects/p0020541/Yixuan/spinw/spinw_env/lib/python3.9/site-packages/linear_operator/utils/cholesky.py", line 65, in psd_safe_cholesky
+    L = _psd_safe_cholesky(A, out=out, jitter=jitter, max_tries=max_tries)
+  File "/work/projects/p0020541/Yixuan/spinw/spinw_env/lib/python3.9/site-packages/linear_operator/utils/cholesky.py", line 26, in _psd_safe_cholesky
+    raise NanError(f"cholesky_cpu: {isnan.sum().item()} of {A.numel()} elements of the {A.shape} tensor are NaN.")
+linear_operator.utils.errors.NanError: cholesky_cpu: 289 of 289 elements of the torch.Size([17, 17]) tensor are NaN.

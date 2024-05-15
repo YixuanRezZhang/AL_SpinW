@@ -1,0 +1,32 @@
+cpu
+Warning: X does not support locale C.UTF-8
+Interface opened
+Creating the bond list (maxDistance = 10 Å, nCell = 3x3x2)...
+...66 bonds are retained out of 560 generated!
+
+[[-4.  -7.  -4.  -0.5 -0.5  0.  -0.5  0.  -0.5  0.   0. ]
+ [ 0.   0.   0.   0.   0.   0.5  0.   0.5  0.   0.5  6. ]]
+initialization_data:  [[ 50.  70.]
+ [130.  70.]
+ [210.  70.]
+ [290.  70.]
+ [370.  70.]
+ [450.  70.]
+ [ 50. 150.]
+ [130. 150.]
+ [210. 150.]
+ [290. 150.]
+ [370. 150.]
+ [450. 150.]
+ [ 50. 230.]
+ [130. 230.]
+ [210. 230.]
+ [290. 230.]
+ [370. 230.]
+ [450. 230.]]
+initial: 0
+initial: 1
+initial: 2
+Using dtype = torch.float64 
+Using device = cpu
+TR-0 starting from: 0.3183

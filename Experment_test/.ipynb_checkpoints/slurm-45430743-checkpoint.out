@@ -1,0 +1,10 @@
+Lmod: unloading matlab R2023a 
+Lmod: loading matlab R2023a 
+Traceback (most recent call last):
+  File "/work/projects/p0020541/Yixuan/SpinWave/Expr_9_para_MP_test/turbo_exp_swmultipath_AL.py", line 721, in <module>
+    result = BO_search_SW_Turbo(fun_q, n_trust_regions=4, batch_size=4, max_evals=max_evals)
+  File "/work/projects/p0020541/Yixuan/SpinWave/Expr_9_para_MP_test/turbo_exp_swmultipath_AL.py", line 559, in BO_search_SW_Turbo
+    turbo_m = TurboM(
+  File "/work/projects/p0020541/Yixuan/SpinWave/Expr_9_para_MP_test/software/turbo/turbo_m.py", line 92, in __init__
+    assert max_evals > n_trust_regions * n_init, "Not enough trust regions to do initial evaluations"
+AssertionError: Not enough trust regions to do initial evaluations

@@ -1,0 +1,6 @@
+Lmod: unloading matlab R2023a 
+Lmod: loading matlab R2023a 
+  File "/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py", line 664
+    X_all = find_peaks(fsample_base, _X, neighbor_size = int(np.ceil(min(exp_img_shape[Q])/80)))
+    ^
+SyntaxError: invalid syntax

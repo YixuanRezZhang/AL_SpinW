@@ -1,0 +1,32 @@
+Lmod: unloading matlab R2023a 
+Lmod: loading matlab R2023a 
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/para_results.txt: No such file or directory
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/dict_candi: No such file or directory
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/para_results.txt: No such file or directory
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/SW_point.txt: No such file or directory
+/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py:663: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  fsample_base[tuple(map_index)] = fY[tuple(map_index)] + res[count] + hpar*var[count]
+/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py:664: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  fsample_resi[tuple(map_index)] = res[count]
+/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py:663: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  fsample_base[tuple(map_index)] = fY[tuple(map_index)] + res[count] + hpar*var[count]
+/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py:664: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  fsample_resi[tuple(map_index)] = res[count]
+/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py:663: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  fsample_base[tuple(map_index)] = fY[tuple(map_index)] + res[count] + hpar*var[count]
+/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py:664: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  fsample_resi[tuple(map_index)] = res[count]
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/dict_candi: No such file or directory
+/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py:663: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  fsample_base[tuple(map_index)] = fY[tuple(map_index)] + res[count] + hpar*var[count]
+/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py:664: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  fsample_resi[tuple(map_index)] = res[count]
+/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py:663: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  fsample_base[tuple(map_index)] = fY[tuple(map_index)] + res[count] + hpar*var[count]
+/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py:664: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  fsample_resi[tuple(map_index)] = res[count]
+/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py:663: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  fsample_base[tuple(map_index)] = fY[tuple(map_index)] + res[count] + hpar*var[count]
+/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/turbo_exp_swmultipath_AL.py:664: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  fsample_resi[tuple(map_index)] = res[count]
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter/dict_candi: No such file or directory

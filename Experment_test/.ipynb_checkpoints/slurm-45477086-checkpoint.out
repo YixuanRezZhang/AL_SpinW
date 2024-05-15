@@ -1,0 +1,21 @@
+Lmod: loading matlab R2023a 
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter4/para_results.txt: No such file or directory
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter4/dict_candi: No such file or directory
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter4/para_results.txt: No such file or directory
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter4/SW_point.txt: No such file or directory
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter4/dict_candi: No such file or directory
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter4/dict_candi: No such file or directory
+Traceback (most recent call last):
+  File "/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter4/turbo_exp_swmultipath_AL.py", line 919, in <module>
+    x_point = BO_search_SW(Candidate_S[Q][0], option='FNGP', Q=Q)
+  File "/work/projects/p0020541/Yixuan/SpinWave/Expr_with_Kalman_filter4/turbo_exp_swmultipath_AL.py", line 650, in BO_search_SW
+    model_G = FixedNoiseGP(X_ori, Y_train_diff, Yvar_diff, covar_module=covar_module)
+  File "/work/projects/p0020541/Yixuan/spinw/spinw_env/lib/python3.9/site-packages/botorch/models/gp_regression.py", line 242, in __init__
+    super().__init__(
+  File "/work/projects/p0020541/Yixuan/spinw/spinw_env/lib/python3.9/site-packages/botorch/models/gp_regression.py", line 163, in __init__
+    validate_input_scaling(
+  File "/work/projects/p0020541/Yixuan/spinw/spinw_env/lib/python3.9/site-packages/botorch/models/utils/assorted.py", line 239, in validate_input_scaling
+    check_no_nans(train_Y)
+  File "/work/projects/p0020541/Yixuan/spinw/spinw_env/lib/python3.9/site-packages/botorch/models/utils/assorted.py", line 132, in check_no_nans
+    raise InputDataError("Input data contains NaN values.")
+botorch.exceptions.errors.InputDataError: Input data contains NaN values.

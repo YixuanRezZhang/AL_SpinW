@@ -1,0 +1,8 @@
+Lmod: unloading matlab R2023a 
+Lmod: loading matlab R2023a 
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_9_para_MP_test/para_results.txt: No such file or directory
+cat: /work/projects/p0020541/Yixuan/SpinWave/Expr_9_para_MP_test/dict_candi: No such file or directory
+Traceback (most recent call last):
+  File "/work/projects/p0020541/Yixuan/SpinWave/Expr_9_para_MP_test/turbo_exp_swmultipath_AL.py", line 730, in <module>
+    io.database_convert(i=nn_num)
+NameError: name 'io' is not defined
